@@ -1,0 +1,50 @@
+{
+  "Signal1": {
+    "Signal1": 466,
+    "Signal3": 2,
+    "Signal4": 37,
+    "Signal6": 0,
+    "Signal7": 0,
+    "Signal9": 0
+  },
+  "Signal3": {
+    "Signal1": 1,
+    "Signal3": 474,
+    "Signal4": 0,
+    "Signal6": 2,
+    "Signal7": 0,
+    "Signal9": 0
+  },
+  "Signal4": {
+    "Signal1": 5,
+    "Signal3": 0,
+    "Signal4": 427,
+    "Signal6": 2,
+    "Signal7": 16,
+    "Signal9": 0
+  },
+  "Signal6": {
+    "Signal1": 0,
+    "Signal3": 15,
+    "Signal4": 2,
+    "Signal6": 483,
+    "Signal7": 0,
+    "Signal9": 5
+  },
+  "Signal7": {
+    "Signal1": 0,
+    "Signal3": 0,
+    "Signal4": 17,
+    "Signal6": 0,
+    "Signal7": 509,
+    "Signal9": 2
+  },
+  "Signal9": {
+    "Signal1": 0,
+    "Signal3": 0,
+    "Signal4": 0,
+    "Signal6": 10,
+    "Signal7": 2,
+    "Signal9": 523
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "Signal1": {
+    "Signal1": 105,
+    "Signal2": 26,
+    "Signal3": 1,
+    "Signal4": 17,
+    "Signal5": 9,
+    "Signal6": 0,
+    "Signal7": 2,
+    "Signal8": 0,
+    "Signal9": 0
+  },
+  "Signal2": {
+    "Signal1": 34,
+    "Signal2": 83,
+    "Signal3": 7,
+    "Signal4": 11,
+    "Signal5": 20,
+    "Signal6": 3,
+    "Signal7": 1,
+    "Signal8": 2,
+    "Signal9": 0
+  },
+  "Signal3": {
+    "Signal1": 2,
+    "Signal2": 11,
+    "Signal3": 116,
+    "Signal4": 2,
+    "Signal5": 3,
+    "Signal6": 20,
+    "Signal7": 0,
+    "Signal8": 1,
+    "Signal9": 4
+  },
+  "Signal4": {
+    "Signal1": 30,
+    "Signal2": 3,
+    "Signal3": 4,
+    "Signal4": 85,
+    "Signal5": 21,
+    "Signal6": 1,
+    "Signal7": 15,
+    "Signal8": 2,
+    "Signal9": 1
+  },
+  "Signal5": {
+    "Signal1": 2,
+    "Signal2": 21,
+    "Signal3": 4,
+    "Signal4": 22,
+    "Signal5": 67,
+    "Signal6": 5,
+    "Signal7": 5,
+    "Signal8": 33,
+    "Signal9": 2
+  },
+  "Signal6": {
+    "Signal1": 0,
+    "Signal2": 0,
+    "Signal3": 19,
+    "Signal4": 0,
+    "Signal5": 14,
+    "Signal6": 98,
+    "Signal7": 3,
+    "Signal8": 2,
+    "Signal9": 26
+  },
+  "Signal7": {
+    "Signal1": 2,
+    "Signal2": 0,
+    "Signal3": 0,
+    "Signal4": 34,
+    "Signal5": 5,
+    "Signal6": 3,
+    "Signal7": 109,
+    "Signal8": 8,
+    "Signal9": 1
+  },
+  "Signal8": {
+    "Signal1": 1,
+    "Signal2": 0,
+    "Signal3": 1,
+    "Signal4": 9,
+    "Signal5": 14,
+    "Signal6": 6,
+    "Signal7": 35,
+    "Signal8": 90,
+    "Signal9": 4
+  },
+  "Signal9": {
+    "Signal1": 0,
+    "Signal2": 0,
+    "Signal3": 1,
+    "Signal4": 0,
+    "Signal5": 3,
+    "Signal6": 14,
+    "Signal7": 1,
+    "Signal8": 15,
+    "Signal9": 125
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Weights File",
+  "type": "object",
+  "minProperties": 1,
+
+  "patternProperties": {
+    "^[A-Za-z0-9_]+(\\.[A-Za-z0-9_]+)+$": {
+      "type": "number",
+      "minimum": 0
+    }
+  },
+
+  "additionalProperties": false
+}

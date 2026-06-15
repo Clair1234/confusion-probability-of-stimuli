@@ -1,0 +1,52 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Stimuli Schema",
+  "type": "object",
+
+  "additionalProperties": {
+    "oneOf": [
+
+      {
+        "type": "number"
+      },
+
+      {
+        "type": "object",
+        "additionalProperties": {
+          "$ref": "#/$defs/node"
+        }
+      }
+    ]
+  },
+
+  "$defs": {
+    "node": {
+      "oneOf": [
+        {
+          "$ref": "#/$defs/leaf"
+        },
+        {
+          "type": "object",
+          "additionalProperties": {
+            "$ref": "#/$defs/node"
+          }
+        }
+      ]
+    },
+
+    "leaf": {
+      "type": "object",
+      "required": ["Value", "Unit"],
+      "additionalProperties": false,
+      "properties": {
+        "Value": {
+          "type": ["number", "integer"]
+        },
+        "Unit": {
+          "type": "string",
+          "minLength": 1
+        }
+      }
+    }
+  }
+}

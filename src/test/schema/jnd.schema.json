@@ -1,0 +1,27 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "REWIND JND File",
+  "type": "object",
+  "minProperties": 1,
+  "additionalProperties": {
+    "type": "object",
+    "title": "Modality",
+    "minProperties": 1,
+    "additionalProperties": {
+      "type": "object",
+      "title": "Dimension",
+      "required": ["Value", "Unit"],
+      "additionalProperties": false,
+      "properties": {
+        "Value": {
+          "type": ["number", "integer"],
+          "exclusiveMinimum": 0
+        },
+        "Unit": {
+          "type": "string",
+          "enum": ["%", "Hz", "ms", "s", "None"]
+        }
+      }
+    }
+  }
+}
