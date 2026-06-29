@@ -1,0 +1,12 @@
+{
+    "Audio.Duration" : 1,
+    "Audio.Frequency" : 1,
+    "Audio.Intensity.Left.AVG" : 1,
+    "Audio.Intensity.Left.STD" : 0.5,
+    "Audio.Intensity.Right.AVG" : 1,
+    "Audio.Intensity.Right.STD" : 0.5,
+    "Vibrotactile.Amplitude" : 1,  
+    "Vibrotactile.Duration": 1,
+    "Vibrotactile.Frequency": 1,
+    "Vibrotactile.NumberOfPulse": 1
+}

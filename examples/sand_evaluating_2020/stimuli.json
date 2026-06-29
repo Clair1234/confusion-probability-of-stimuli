@@ -1,0 +1,182 @@
+{
+    "Signal1" : {
+        "Vibrotactile" : {
+            "TotalDuration" : {
+                "Value" : 400,
+                "Unit" : "ms"
+            },
+            "PulseDuration" : {
+                "Value" : 400,
+                "Unit" : "ms"
+            },
+            "NumberOfRepetitions" : {
+                "Value" : 1,
+                "Unit" : "None"
+            },
+            "BreakDuration" : {
+                "Value" : 0,
+                "Unit" : "ms"
+            },
+            "Shape" : {
+                "Square": {
+                    "Value" : 1,
+                    "Unit" : "None"
+                },
+                "Circle": {
+                    "Value" : 0,
+                    "Unit" : "None"
+                }
+            }
+        }
+    },
+    "Signal2" : {
+        "Vibrotactile" : {
+            "TotalDuration" : {
+                "Value" : 1100,
+                "Unit" : "ms"
+            },
+            "PulseDuration" : {
+                "Value" : 400,
+                "Unit" : "ms"
+            },
+            "NumberOfRepetitions" : {
+                "Value" : 2,
+                "Unit" : "None"
+            },
+            "BreakDuration" : {
+                "Value" : 300,
+                "Unit" : "ms"
+            },
+            "Shape" : {
+                "Square": {
+                    "Value" : 1,
+                    "Unit" : "None"
+                },
+                "Circle": {
+                    "Value" : 0,
+                    "Unit" : "None"
+                }
+            }
+        }
+    },
+    "Signal3" : {
+        "Vibrotactile" : {
+            "TotalDuration" : {
+                "Value" : 1800,
+                "Unit" : "ms"
+            },
+            "PulseDuration" : {
+                "Value" : 400,
+                "Unit" : "ms"
+            },
+            "NumberOfRepetitions" : {
+                "Value" : 3,
+                "Unit" : "None"
+            },
+            "BreakDuration" : {
+                "Value" : 300,
+                "Unit" : "ms"
+            },
+            "Shape" : {
+                "Square": {
+                    "Value" : 1,
+                    "Unit" : "None"
+                },
+                "Circle": {
+                    "Value" : 0,
+                    "Unit" : "None"
+                }
+            }
+        }
+    },
+    "Signal4" : {
+        "Vibrotactile" : {
+            "TotalDuration" : {
+                "Value" : 1100,
+                "Unit" : "ms"
+            },
+            "PulseDuration" : {
+                "Value" : 1100,
+                "Unit" : "ms"
+            },
+            "NumberOfRepetitions" : {
+                "Value" : 1,
+                "Unit" : "None"
+            },
+            "BreakDuration" : {
+                "Value" : 0,
+                "Unit" : "ms"
+            },
+            "Shape" : {
+                "Square": {
+                    "Value" : 0,
+                    "Unit" : "None"
+                },
+                "Circle": {
+                    "Value" : 1,
+                    "Unit" : "None"
+                }
+            }
+        }
+    },
+    "Signal5" : {
+        "Vibrotactile" : {
+            "TotalDuration" : {
+                "Value" : 500,
+                "Unit" : "ms"
+            },
+            "PulseDuration" : {
+                "Value" : 100,
+                "Unit" : "ms"
+            },
+            "NumberOfRepetitions" : {
+                "Value" : 2,
+                "Unit" : "None"
+            },
+            "BreakDuration" : {
+                "Value" : 300,
+                "Unit" : "ms"
+            },
+            "Shape" : {
+                "Square": {
+                    "Value" : 1,
+                    "Unit" : "None"
+                },
+                "Circle": {
+                    "Value" : 0,
+                    "Unit" : "None"
+                }
+            }
+        }
+    },
+    "Signal6" : {
+        "Vibrotactile" : {
+            "TotalDuration" : {
+                "Value" : 900,
+                "Unit" : "ms"
+            },
+            "PulseDuration" : {
+                "Value" : 100,
+                "Unit" : "ms"
+            },
+            "NumberOfRepetitions" : {
+                "Value" : 3,
+                "Unit" : "None"
+            },
+            "BreakDuration" : {
+                "Value" : 300,
+                "Unit" : "ms"
+            },
+            "Shape" : {
+                "Square": {
+                    "Value" : 1,
+                    "Unit" : "None"
+                },
+                "Circle": {
+                    "Value" : 0,
+                    "Unit" : "None"
+                }
+            }
+        }
+    }
+}

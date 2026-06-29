@@ -1,0 +1,12 @@
+{
+    "Vibrotactile.Duration" : 1,
+    "Vibrotactile.Frequency" : 1,
+    "Vibrotactile.LocationLongitude.Elbow" : 2,
+    "Vibrotactile.LocationLongitude.MidForearm" : 2,  
+    "Vibrotactile.LocationLongitude.Wrist": 2,
+    "Vibrotactile.LocationTransverse.Volar": 2, 
+    "Vibrotactile.LocationTransverse.Dorsal" : 2,
+    "Vibrotactile.ModulationFrequency" : 0.5,
+    "Vibrotactile.NumberOfTactors" : 2,
+    "name_distance" : 0
+}

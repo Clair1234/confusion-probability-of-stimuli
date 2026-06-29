@@ -1,0 +1,8 @@
+{
+    "Vibrotactile.BreakDuration" : 1,
+    "Vibrotactile.NumberOfRepetitions" : 1,
+    "Vibrotactile.PulseDuration" : 1,
+    "Vibrotactile.Shape.Circle" : 0.8,  
+    "Vibrotactile.Shape.Square": 0.8,
+    "Vibrotactile.TotalDuration": 1
+}

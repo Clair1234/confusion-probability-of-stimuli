@@ -1,0 +1,254 @@
+{
+    "Signal1" : {
+        "Vibrotactile" : {
+            "Frequency" : {
+                "Value" : 30,
+                "Unit" : "Hz"
+            },
+            "TotalDuration": {
+                "Value" : 1,
+                "Unit" : "s"
+            },
+            "NumberOfPulses": {
+                "Value" : 5,
+                "Unit" : "None"
+            },
+            "PulseDuration": {
+                "Value" : 140,
+                "Unit" : "ms"
+            },
+            "NumberOfIPI": {
+                "Value" : 4,
+                "Unit" : "None"
+            },
+            "IPIDuration": {
+                "Value" : 75,
+                "Unit" : "ms"
+            }
+        }
+    },
+    "Signal2" : {
+        "Vibrotactile" : {
+            "Frequency" : {
+                "Value" : 30,
+                "Unit" : "Hz"
+            },
+            "TotalDuration": {
+                "Value" : 1.5,
+                "Unit" : "s"
+            },
+            "NumberOfPulses": {
+                "Value" : 5,
+                "Unit" : "None"
+            },
+            "PulseDuration": {
+                "Value" : 210,
+                "Unit" : "ms"
+            },
+            "NumberOfIPI": {
+                "Value" : 4,
+                "Unit" : "None"
+            },
+            "IPIDuration": {
+                "Value" : 112,
+                "Unit" : "ms"
+            }
+        }
+    },
+    "Signal3" : {
+        "Vibrotactile" : {
+            "Frequency" : {
+                "Value" : 30,
+                "Unit" : "Hz"
+            },
+            "TotalDuration": {
+                "Value" : 2.5,
+                "Unit" : "s"
+            },
+            "NumberOfPulses": {
+                "Value" : 5,
+                "Unit" : "None"
+            },
+            "PulseDuration": {
+                "Value" : 350,
+                "Unit" : "ms"
+            },
+            "NumberOfIPI": {
+                "Value" : 4,
+                "Unit" : "None"
+            },
+            "IPIDuration": {
+                "Value" : 187,
+                "Unit" : "ms"
+            }
+        }
+    },
+    "Signal4" : {
+        "Vibrotactile" : {
+            "Frequency" : {
+                "Value" : 120,
+                "Unit" : "Hz"
+            },
+            "TotalDuration": {
+                "Value" : 1,
+                "Unit" : "s"
+            },
+            "NumberOfPulses": {
+                "Value" : 5,
+                "Unit" : "None"
+            },
+            "PulseDuration": {
+                "Value" : 140,
+                "Unit" : "ms"
+            },
+            "NumberOfIPI": {
+                "Value" : 4,
+                "Unit" : "None"
+            },
+            "IPIDuration": {
+                "Value" : 75,
+                "Unit" : "ms"
+            }
+        }
+    },
+    "Signal5" : {
+        "Vibrotactile" : {
+            "Frequency" : {
+                "Value" : 120,
+                "Unit" : "Hz"
+            },
+            "TotalDuration": {
+                "Value" : 1.5,
+                "Unit" : "s"
+            },
+            "NumberOfPulses": {
+                "Value" : 5,
+                "Unit" : "None"
+            },
+            "PulseDuration": {
+                "Value" : 210,
+                "Unit" : "ms"
+            },
+            "NumberOfIPI": {
+                "Value" : 4,
+                "Unit" : "None"
+            },
+            "IPIDuration": {
+                "Value" : 112,
+                "Unit" : "ms"
+            }
+        }
+    },
+    "Signal6" : {
+        "Vibrotactile" : {
+            "Frequency" : {
+                "Value" : 120,
+                "Unit" : "Hz"
+            },
+            "TotalDuration": {
+                "Value" : 2.5,
+                "Unit" : "s"
+            },
+            "NumberOfPulses": {
+                "Value" : 5,
+                "Unit" : "None"
+            },
+            "PulseDuration": {
+                "Value" : 350,
+                "Unit" : "ms"
+            },
+            "NumberOfIPI": {
+                "Value" : 4,
+                "Unit" : "None"
+            },
+            "IPIDuration": {
+                "Value" : 187,
+                "Unit" : "ms"
+            }
+        }
+    },
+    "Signal7" : {
+        "Vibrotactile" : {
+            "Frequency" : {
+                "Value" : 210,
+                "Unit" : "Hz"
+            },
+            "TotalDuration": {
+                "Value" : 1,
+                "Unit" : "s"
+            },
+            "NumberOfPulses": {
+                "Value" : 5,
+                "Unit" : "None"
+            },
+            "PulseDuration": {
+                "Value" : 140,
+                "Unit" : "ms"
+            },
+            "NumberOfIPI": {
+                "Value" : 4,
+                "Unit" : "None"
+            },
+            "IPIDuration": {
+                "Value" : 75,
+                "Unit" : "ms"
+            }
+        }
+    },
+    "Signal8" : {
+        "Vibrotactile" : {
+            "Frequency" : {
+                "Value" : 210,
+                "Unit" : "Hz"
+            },
+            "TotalDuration": {
+                "Value" : 1.5,
+                "Unit" : "s"
+            },
+            "NumberOfPulses": {
+                "Value" : 5,
+                "Unit" : "None"
+            },
+            "PulseDuration": {
+                "Value" : 210,
+                "Unit" : "ms"
+            },
+            "NumberOfIPI": {
+                "Value" : 4,
+                "Unit" : "None"
+            },
+            "IPIDuration": {
+                "Value" : 112,
+                "Unit" : "ms"
+            }
+        }
+    },
+    "Signal9" : {
+        "Vibrotactile" : {
+            "Frequency" : {
+                "Value" : 210,
+                "Unit" : "Hz"
+            },
+            "TotalDuration": {
+                "Value" : 2.5,
+                "Unit" : "s"
+            },
+            "NumberOfPulses": {
+                "Value" : 5,
+                "Unit" : "None"
+            },
+            "PulseDuration": {
+                "Value" : 350,
+                "Unit" : "ms"
+            },
+            "NumberOfIPI": {
+                "Value" : 4,
+                "Unit" : "None"
+            },
+            "IPIDuration": {
+                "Value" : 187,
+                "Unit" : "ms"
+            }
+        }
+    }
+}

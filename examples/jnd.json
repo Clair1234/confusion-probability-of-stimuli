@@ -1,0 +1,62 @@
+{
+    "Vibrotactile" : {
+        "Amplitude" : {
+            "Value" : 14.5,
+            "Unit" : "%"
+        },
+        "Frequency" : {
+            "Value" : 16.5,
+            "Unit" : "%"
+        },
+        "NumberOfPulse" : {
+             "Value" : 10,
+              "Unit" : "%"
+        },
+        "NumberOfTactors" : {
+             "Value" : 1,
+              "Unit" : "None"
+        },
+        "NumberOfRepetitions" : {
+             "Value" : 10,
+              "Unit" : "%"
+        },
+        "NumberOfIPI" : {
+             "Value" : 1,
+              "Unit" : "None"
+        },
+        "Shape" : {
+             "Value" : 1,
+              "Unit" : "None"
+        },
+        "Location" : {
+             "Value" : 1,
+              "Unit" : "None"
+        },
+        "Duration" : {
+             "Value" : 28.75,
+             "Unit" : "%"
+        }   
+    },
+    "Audio" : {
+        "Intensity" : {
+            "Value" : 25,
+            "Unit" : "%"
+        },
+        "Frequency" : {
+            "Value" : 9,
+            "Unit" : "%"
+        },
+        "NumberOfPulse" : {
+             "Value" : 5,
+             "Unit" : "%"
+        },
+        "NumberOfTremolo" : {
+             "Value" : 5,
+             "Unit" : "%"
+        },
+        "Duration" : {
+             "Value" : 15,
+             "Unit" : "%"
+        } 
+    }
+}

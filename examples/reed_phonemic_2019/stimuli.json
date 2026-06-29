@@ -1,0 +1,992 @@
+{
+    "Signal1": {
+        "Name" : "P",
+        "Vibrotactile": {
+            "Frequency": {
+                "Value": 300,
+                "Unit": "Hz"
+            },
+            "ModulationFrequency": {
+                "Value": 0,
+                "Unit": "Hz"
+            },
+            "NumberOfTactors": {
+                "Value": 4,
+                "Unit": "None"
+            },
+            "LocationTransverse": {
+                "Dorsal": {
+                    "Value": 1,
+                    "Unit" : "None"
+                },
+                "Volar": {
+                    "Value": 0,
+                    "Unit" : "None"
+                }
+            },
+            "LocationLongitude": {
+                "Elbow": {
+                    "Value": 0,
+                    "Unit" : "None"
+                },
+                "MidForearm": {
+                    "Value": 0,
+                    "Unit" : "None"
+                },
+                "Wrist": {
+                    "Value": 1,
+                    "Unit" : "None"
+                }
+            },
+            "Duration": {
+                "Value": 100,
+                "Unit": "ms"
+            }
+        }
+    },
+    "Signal2": {
+        "Name" : "B",
+        "Vibrotactile": {
+            "Frequency": {
+                "Value": 300,
+                "Unit": "Hz"
+            },
+            "ModulationFrequency": {
+                "Value": 30,
+                "Unit": "Hz"
+            },
+            "NumberOfTactors": {
+                "Value": 4,
+                "Unit": "None"
+            },
+            "LocationTransverse": {
+                "Dorsal": {
+                    "Value": 1,
+                    "Unit" : "None"
+                },
+                "Volar": {
+                    "Value": 0,
+                    "Unit" : "None"
+                }
+            },
+            "LocationLongitude": {
+                "Elbow": {
+                    "Value": 0,
+                    "Unit" : "None"
+                },
+                "MidForearm": {
+                    "Value": 0,
+                    "Unit" : "None"
+                },
+                "Wrist": {
+                    "Value": 1,
+                    "Unit" : "None"
+                }
+            },
+            "Duration": {
+                "Value": 100,
+                "Unit": "ms"
+            }
+        }
+    },
+    "Signal3": {
+        "Name" : "T",
+        "Vibrotactile": {
+            "Frequency": {
+                "Value": 300,
+                "Unit": "Hz"
+            },
+            "ModulationFrequency": {
+                "Value": 0,
+                "Unit": "Hz"
+            },
+            "NumberOfTactors": {
+                "Value": 4,
+                "Unit": "None"
+            },
+            "LocationTransverse": {
+                "Dorsal": {
+                    "Value": 0,
+                    "Unit" : "None"
+                },
+                "Volar": {
+                    "Value": 1,
+                    "Unit" : "None"
+                }
+            },
+            "LocationLongitude": {
+                "Elbow": {
+                    "Value": 0,
+                    "Unit" : "None"
+                },
+                "MidForearm": {
+                    "Value": 0,
+                    "Unit" : "None"
+                },
+                "Wrist": {
+                    "Value": 1,
+                    "Unit" : "None"
+                }
+            },
+            "Duration": {
+                "Value": 100,
+                "Unit": "ms"
+            }
+        }
+    },
+    "Signal4": {
+        "Name" : "D",
+        "Vibrotactile": {
+            "Frequency": {
+                "Value": 300,
+                "Unit": "Hz"
+            },
+            "ModulationFrequency": {
+                "Value": 30,
+                "Unit": "Hz"
+            },
+            "NumberOfTactors": {
+                "Value": 4,
+                "Unit": "None"
+            },
+            "LocationTransverse": {
+                "Dorsal": {
+                    "Value": 0,
+                    "Unit" : "None"
+                },
+                "Volar": {
+                    "Value": 1,
+                    "Unit" : "None"
+                }
+            },
+            "LocationLongitude": {
+                "Elbow": {
+                    "Value": 1,
+                    "Unit" : "None"
+                },
+                "MidForearm": {
+                    "Value": 0,
+                    "Unit" : "None"
+                },
+                "Wrist": {
+                    "Value": 0,
+                    "Unit" : "None"
+                }
+            },
+            "Duration": {
+                "Value": 100,
+                "Unit": "ms"
+            }
+        }
+    },
+    "Signal5": {
+        "Name" : "K",
+        "Vibrotactile": {
+            "Frequency": {
+                "Value": 300,
+                "Unit": "Hz"
+            },
+            "ModulationFrequency": {
+                "Value": 0,
+                "Unit": "Hz"
+            },
+            "NumberOfTactors": {
+                "Value": 4,
+                "Unit": "None"
+            },
+            "LocationTransverse": {
+                "Dorsal": {
+                    "Value": 1,
+                    "Unit" : "None"
+                },
+                "Volar": {
+                    "Value": 0,
+                    "Unit": "None"
+                }
+            },
+            "LocationLongitude": {
+                "Elbow": {
+                    "Value": 1,
+                    "Unit" : "None"
+                },
+                "MidForearm": {
+                    "Value": 0,
+                    "Unit" : "None"
+                },
+                "Wrist": {
+                    "Value": 0,
+                    "Unit" : "None"
+                }
+            },
+            "Duration": {
+                "Value": 100,
+                "Unit": "ms"
+            }
+        }
+    },
+    "Signal6": {
+        "Name" : "G",
+        "Vibrotactile": {
+            "Frequency": {
+                "Value": 300,
+                "Unit": "Hz"
+            },
+            "ModulationFrequency": {
+                "Value": 30,
+                "Unit": "Hz"
+            },
+            "NumberOfTactors": {
+                "Value": 4,
+                "Unit": "None"
+            },
+            "LocationTransverse": {
+                "Dorsal": {
+                    "Value": 1,
+                    "Unit" : "None"
+                },
+                "Volar": {
+                    "Value": 0,
+                    "Unit" : "None"
+                }
+            },
+            "LocationLongitude": {
+                "Elbow": {
+                    "Value": 1,
+                    "Unit" : "None"
+                },
+                "MidForearm": {
+                    "Value": 0,
+                    "Unit" : "None"
+                },
+                "Wrist": {
+                    "Value": 0,
+                    "Unit" : "None"
+                }
+            },
+            "Duration": {
+                "Value": 100,
+                "Unit": "ms"
+            }
+        }
+    },
+    "Signal7": {
+        "Name" : "F",
+        "Vibrotactile": {
+            "Frequency": {
+                "Value": 300,
+                "Unit": "Hz"
+            },
+            "ModulationFrequency": {
+                "Value": 0,
+                "Unit": "Hz"
+            },
+            "NumberOfTactors": {
+                "Value": 4,
+                "Unit": "None"
+            },
+            "LocationTransverse": {
+                "Dorsal": {
+                    "Value": 1,
+                    "Unit" : "None"
+                },
+                "Volar": {
+                    "Value": 1,
+                    "Unit" : "None"
+                }
+            },
+            "LocationLongitude": {
+                "Elbow": {
+                    "Value": 0,
+                    "Unit" : "None"
+                },
+                "MidForearm": {
+                    "Value": 0,
+                    "Unit" : "None"
+                },
+                "Wrist": {
+                    "Value": 1,
+                    "Unit" : "None"
+                }
+            },
+            "Duration": {
+                "Value": 400,
+                "Unit": "ms"
+            }
+        }
+    },
+    "Signal8": {
+        "Name" : "V",
+        "Vibrotactile": {
+            "Frequency": {
+                "Value": 300,
+                "Unit": "Hz"
+            },
+            "ModulationFrequency": {
+                "Value": 8,
+                "Unit": "Hz"
+            },
+            "NumberOfTactors": {
+                "Value": 4,
+                "Unit": "None"
+            },
+            "LocationTransverse": {
+                "Dorsal": {
+                    "Value": 1,
+                    "Unit" : "None"
+                },
+                "Volar": {
+                    "Value": 1,
+                    "Unit" : "None"
+                }
+            },
+            "LocationLongitude": {
+                "Elbow": {
+                    "Value": 0,
+                    "Unit" : "None"
+                },
+                "MidForearm": {
+                    "Value": 0,
+                    "Unit" : "None"
+                },
+                "Wrist": {
+                    "Value": 1,
+                    "Unit" : "None"
+                }
+            },
+            "Duration": {
+                "Value": 400,
+                "Unit": "ms"
+            }
+        }
+    },
+    "Signal9": {
+        "Name" : "TH",
+        "Vibrotactile": {
+            "Frequency": {
+                "Value": 300,
+                "Unit": "Hz"
+            },
+            "ModulationFrequency": {
+                "Value": 0,
+                "Unit": "Hz"
+            },
+            "NumberOfTactors": {
+                "Value": 4,
+                "Unit": "None"
+            },
+            "LocationTransverse": {
+                "Dorsal": {
+                    "Value": 1,
+                    "Unit" : "None"
+                },
+                "Volar": {
+                    "Value": 0,
+                    "Unit" : "None"
+                }
+            },
+            "LocationLongitude": {
+                "Elbow": {
+                    "Value": 0,
+                    "Unit" : "None"
+                },
+                "MidForearm": {
+                    "Value": 1,
+                    "Unit" : "None"
+                },
+                "Wrist": {
+                    "Value": 0,
+                    "Unit" : "None"
+                }
+            },
+            "Duration": {
+                "Value": 400,
+                "Unit": "ms"
+            }
+        }
+    },
+    "Signal10": {
+        "Name" : "DH",
+        "Vibrotactile": {
+            "Frequency": {
+                "Value": 300,
+                "Unit": "Hz"
+            },
+            "ModulationFrequency": {
+                "Value": 8,
+                "Unit": "Hz"
+            },
+            "NumberOfTactors": {
+                "Value": 4,
+                "Unit": "None"
+            },
+            "LocationTransverse": {
+                "Dorsal": {
+                    "Value": 1,
+                    "Unit" : "None"
+                },
+                "Volar": {
+                    "Value": 0,
+                    "Unit" : "None"
+                }
+            },
+            "LocationLongitude": {
+                "Elbow": {
+                    "Value": 0,
+                    "Unit" : "None"
+                },
+                "MidForearm": {
+                    "Value": 1,
+                    "Unit" : "None"
+                },
+                "Wrist": {
+                    "Value": 0,
+                    "Unit" : "None"
+                }
+            },
+            "Duration": {
+                "Value": 400,
+                "Unit": "ms"
+            }
+        }
+    },
+    "Signal11": {
+        "Name" : "S",
+        "Vibrotactile": {
+            "Frequency": {
+                "Value": 300,
+                "Unit": "Hz"
+            },
+            "ModulationFrequency": {
+                "Value": 0,
+                "Unit": "Hz"
+            },
+            "NumberOfTactors": {
+                "Value": 4,
+                "Unit": "None"
+            },
+            "LocationTransverse": {
+                "Dorsal": {
+                    "Value": 1,
+                    "Unit" : "None"
+                },
+                "Volar": {
+                    "Value": 1,
+                    "Unit" : "None"
+                }
+            },
+            "LocationLongitude": {
+                "Elbow": {
+                    "Value": 1,
+                    "Unit" : "None"
+                },
+                "MidForearm": {
+                    "Value": 0,
+                    "Unit" : "None"
+                },
+                "Wrist": {
+                    "Value": 0,
+                    "Unit" : "None"
+                }
+            },
+            "Duration": {
+                "Value": 400,
+                "Unit": "ms"
+            }
+        }
+    },
+    "Signal12": {
+        "Name" : "Z",
+        "Vibrotactile": {
+            "Frequency": {
+                "Value": 300,
+                "Unit": "Hz"
+            },
+            "ModulationFrequency": {
+                "Value": 8,
+                "Unit": "Hz"
+            },
+            "NumberOfTactors": {
+                "Value": 4,
+                "Unit": "None"
+            },
+            "LocationTransverse": {
+                "Dorsal": {
+                    "Value": 1,
+                    "Unit" : "None"
+                },
+                "Volar": {
+                    "Value": 1,
+                    "Unit" : "None"
+                }
+            },
+            "LocationLongitude": {
+                "Elbow": {
+                    "Value": 1,
+                    "Unit" : "None"
+                },
+                "MidForearm": {
+                    "Value": 0,
+                    "Unit" : "None"
+                },
+                "Wrist": {
+                    "Value": 0,
+                    "Unit" : "None"
+                }
+            },
+            "Duration": {
+                "Value": 400,
+                "Unit": "ms"
+            }
+        }
+    },
+    "Signal13": {
+        "Name" : "SH",
+        "Vibrotactile": {
+            "Frequency": {
+                "Value": 300,
+                "Unit": "Hz"
+            },
+            "ModulationFrequency": {
+                "Value": 0,
+                "Unit": "Hz"
+            },
+            "NumberOfTactors": {
+                "Value": 4,
+                "Unit": "None"
+            },
+            "LocationTransverse": {
+                "Dorsal": {
+                    "Value": 0,
+                    "Unit" : "None"
+                },
+                "Volar": {
+                    "Value": 1,
+                    "Unit" : "None"
+                }
+            },
+            "LocationLongitude": {
+                "Elbow": {
+                    "Value": 0,
+                    "Unit" : "None"
+                },
+                "MidForearm": {
+                    "Value": 0,
+                    "Unit" : "None"
+                },
+                "Wrist": {
+                    "Value": 1,
+                    "Unit" : "None"
+                }
+            },
+            "Duration": {
+                "Value": 400,
+                "Unit": "ms"
+            }
+        }
+    },
+    "Signal14": {
+        "Name" : "ZH",
+        "Vibrotactile": {
+            "Frequency": {
+                "Value": 300,
+                "Unit": "Hz"
+            },
+            "ModulationFrequency": {
+                "Value": 8,
+                "Unit": "Hz"
+            },
+            "NumberOfTactors": {
+                "Value": 4,
+                "Unit": "None"
+            },
+            "LocationTransverse": {
+                "Dorsal": {
+                    "Value": 0,
+                    "Unit" : "None"
+                },
+                "Volar": {
+                    "Value": 1,
+                    "Unit" : "None"
+                }
+            },
+            "LocationLongitude": {
+                "Elbow": {
+                    "Value": 1,
+                    "Unit" : "None"
+                },
+                "MidForearm": {
+                    "Value": 0,
+                    "Unit" : "None"
+                },
+                "Wrist": {
+                    "Value": 0,
+                    "Unit" : "None"
+                }
+            },
+            "Duration": {
+                "Value": 400,
+                "Unit": "ms"
+            }
+        }
+    },
+    "Signal16": {
+        "Name" : "J",
+        "Vibrotactile": {
+            "Frequency": {
+                "Value": 300,
+                "Unit": "Hz"
+            },
+            "ModulationFrequency": {
+                "Value": 8,
+                "Unit": "Hz"
+            },
+            "NumberOfTactors": {
+                "Value": 4,
+                "Unit": "None"
+            },
+            "LocationTransverse": {
+                "Dorsal": {
+                    "Value": 1,
+                    "Unit" : "None"
+                },
+                "Volar": {
+                    "Value": 0,
+                    "Unit" : "None"
+                }
+            },
+            "LocationLongitude": {
+                "Elbow": {
+                    "Value": 1,
+                    "Unit" : "None"
+                },
+                "MidForearm": {
+                    "Value": 0,
+                    "Unit" : "None"
+                },
+                "Wrist": {
+                    "Value": 1,
+                    "Unit" : "None"
+                }
+            },
+            "Duration": {
+                "Value": 400,
+                "Unit": "ms"
+            }
+        }
+    },
+    "Signal17": {
+        "Name" : "M",
+        "Vibrotactile": {
+            "Frequency": {
+                "Value": 60,
+                "Unit": "Hz"
+            },
+            "ModulationFrequency": {
+                "Value": 8,
+                "Unit": "Hz"
+            },
+            "NumberOfTactors": {
+                "Value": 4,
+                "Unit": "None"
+            },
+            "LocationTransverse": {
+                "Dorsal": {
+                    "Value": 1,
+                    "Unit" : "None"
+                },
+                "Volar": {
+                    "Value": 0,
+                    "Unit" : "None"
+                }
+            },
+            "LocationLongitude": {
+                "Elbow": {
+                    "Value": 0,
+                    "Unit" : "None"
+                },
+                "MidForearm": {
+                    "Value": 0,
+                    "Unit" : "None"
+                },
+                "Wrist": {
+                    "Value": 1,
+                    "Unit" : "None"
+                }
+            },
+            "Duration": {
+                "Value": 400,
+                "Unit": "ms"
+            }
+        }
+    },
+    "Signal18": {
+        "Name" : "N",
+        "Vibrotactile": {
+            "Frequency": {
+                "Value": 60,
+                "Unit": "Hz"
+            },
+            "ModulationFrequency": {
+                "Value": 8,
+                "Unit": "Hz"
+            },
+            "NumberOfTactors": {
+                "Value": 4,
+                "Unit": "None"
+            },
+            "LocationTransverse": {
+                "Dorsal": {
+                    "Value": 0,
+                    "Unit" : "None"
+                },
+                "Volar": {
+                    "Value": 1,
+                    "Unit" : "None"
+                }
+            },
+            "LocationLongitude": {
+                "Elbow": {
+                    "Value": 0,
+                    "Unit" : "None"
+                },
+                "MidForearm": {
+                    "Value": 1,
+                    "Unit" : "None"
+                },
+                "Wrist": {
+                    "Value": 0,
+                    "Unit" : "None"
+                }
+            },
+            "Duration": {
+                "Value": 400,
+                "Unit": "ms"
+            }
+        }
+    },
+    "Signal19": {
+        "Name" : "NG",
+        "Vibrotactile": {
+            "Frequency": {
+                "Value": 60,
+                "Unit": "Hz"
+            },
+            "ModulationFrequency": {
+                "Value": 4,
+                "Unit": "Hz"
+            },
+            "NumberOfTactors": {
+                "Value": 4,
+                "Unit": "None"
+            },
+            "LocationTransverse": {
+                "Dorsal": {
+                    "Value": 1,
+                    "Unit" : "None"
+                },
+                "Volar": {
+                    "Value": 0,
+                    "Unit" : "None"
+                }
+            },
+            "LocationLongitude": {
+                "Elbow": {
+                    "Value": 1,
+                    "Unit" : "None"
+                },
+                "MidForearm": {
+                    "Value": 0,
+                    "Unit" : "None"
+                },
+                "Wrist": {
+                    "Value": 0,
+                    "Unit" : "None"
+                }
+            },
+            "Duration": {
+                "Value": 400,
+                "Unit": "ms"
+            }
+        }
+    },
+    "Signal21": {
+        "Name" : "W",
+        "Vibrotactile": {
+            "Frequency": {
+                "Value": 60,
+                "Unit": "Hz"
+            },
+            "ModulationFrequency": {
+                "Value": 8,
+                "Unit": "Hz"
+            },
+            "NumberOfTactors": {
+                "Value": 8,
+                "Unit": "None"
+            },
+            "LocationTransverse": {
+                "Dorsal": {
+                    "Value": 1,
+                    "Unit" : "None"
+                },
+                "Volar": {
+                    "Value": 0,
+                    "Unit" : "None"
+                }
+            },
+            "LocationLongitude": {
+                "Elbow": {
+                    "Value": 0,
+                    "Unit" : "None"
+                },
+                "MidForearm": {
+                    "Value": 0,
+                    "Unit" : "None"
+                },
+                "Wrist": {
+                    "Value": 1,
+                    "Unit" : "None"
+                }
+            },
+            "Duration": {
+                "Value": 400,
+                "Unit": "ms"
+            }
+        }
+    },
+    "Signal22": {
+        "Name" : "R",
+        "Vibrotactile": {
+            "Frequency": {
+                "Value": 300,
+                "Unit": "Hz"
+            },
+            "ModulationFrequency": {
+                "Value": 30,
+                "Unit": "Hz"
+            },
+            "NumberOfTactors": {
+                "Value": 4,
+                "Unit": "None"
+            },
+            "LocationTransverse": {
+                "Dorsal": {
+                    "Value": 0,
+                    "Unit" : "None"
+                },
+                "Volar": {
+                    "Value": 1,
+                    "Unit" : "None"
+                }
+            },
+            "LocationLongitude": {
+                "Elbow": {
+                    "Value": 1,
+                    "Unit" : "None"
+                },
+                "MidForearm": {
+                    "Value": 0,
+                    "Unit" : "None"
+                },
+                "Wrist": {
+                    "Value": 0,
+                    "Unit" : "None"
+                }
+            },
+            "Duration": {
+                "Value": 400,
+                "Unit": "ms"
+            }
+        }
+    },
+    "Signal23": {
+        "Name" : "L",
+        "Vibrotactile": {
+            "Frequency": {
+                "Value": 300,
+                "Unit": "Hz"
+            },
+            "ModulationFrequency": {
+                "Value": 30,
+                "Unit": "Hz"
+            },
+            "NumberOfTactors": {
+                "Value": 4,
+                "Unit": "None"
+            },
+            "LocationTransverse": {
+                "Dorsal": {
+                    "Value": 0,
+                    "Unit" : "None"
+                },
+                "Volar": {
+                    "Value": 1,
+                    "Unit" : "None"
+                }
+            },
+            "LocationLongitude": {
+                "Elbow": {
+                    "Value": 0,
+                    "Unit" : "None"
+                },
+                "MidForearm": {
+                    "Value": 0,
+                    "Unit" : "None"
+                },
+                "Wrist": {
+                    "Value": 1,
+                    "Unit" : "None"
+                }
+            },
+            "Duration": {
+                "Value": 400,
+                "Unit": "ms"
+            }
+        }
+    },
+    "Signal24": {
+        "Name" : "Y",
+        "Vibrotactile": {
+            "Frequency": {
+                "Value": 60,
+                "Unit": "Hz"
+            },
+            "ModulationFrequency": {
+                "Value": 0,
+                "Unit": "Hz"
+            },
+            "NumberOfTactors": {
+                "Value": 8,
+                "Unit": "None"
+            },
+            "LocationTransverse": {
+                "Dorsal": {
+                    "Value": 1,
+                    "Unit" : "None"
+                },
+                "Volar": {
+                    "Value": 1,
+                    "Unit" : "None"
+                }
+            },
+            "LocationLongitude": {
+                "Elbow": {
+                    "Value": 0,
+                    "Unit" : "None"
+                },
+                "MidForearm": {
+                    "Value": 1,
+                    "Unit" : "None"
+                },
+                "Wrist": {
+                    "Value": 1,
+                    "Unit" : "None"
+                }
+            },
+            "Duration": {
+                "Value": 400,
+                "Unit": "ms"
+            }
+        }
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "Vibrotactile.Frequency" : 1,
+    "Vibrotactile.IPIDuration" : 1,
+    "Vibrotactile.NumberOfIPI" : 1,
+    "Vibrotactile.NumberOfPulses" : 1,  
+    "Vibrotactile.PulseDuration": 1,
+    "Vibrotactile.TotalDuration": 1
+}

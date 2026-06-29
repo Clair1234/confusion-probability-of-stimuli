@@ -1,0 +1,1260 @@
+{
+    "C1" : {
+        "Signal1" : {
+            "Vibrotactile" : {
+                "Amplitude" : {
+                    "Value" : 40,
+                    "Unit" : "V"
+                },
+                "Frequency" : {
+                    "Value" : 125,
+                    "Unit" : "Hz"
+                },
+                "NumberOfPulse" : {
+                    "Value" : 3,
+                    "Unit" : "None"
+                },
+                "Duration" : {
+                    "Value" : 24,
+                    "Unit" : "ms"
+                }   
+            },
+            "Audio" : {
+                "Intensity" : {
+                    "Left" : {
+                        "AVG" : {
+                            "Value" : 0,
+                            "Unit" : "db(A)"
+                        },
+                        "STD" : {
+                            "Value" : 0,
+                            "Unit" : "db(A)"
+                        }
+                    },
+                    "Right" : {
+                        "AVG" : {
+                            "Value" : 0,
+                            "Unit" : "db(A)"
+                        },
+                        "STD" : {
+                            "Value" : 0,
+                            "Unit" : "db(A)"
+                        }
+                    }
+                },
+                "Duration" : {
+                    "Value" : 0,
+                    "Unit" : "ms"
+                },
+                "Frequency" : {
+                    "Value": 0,
+                    "Unit" : "Hz"
+                }   
+            }
+        },
+	"Signal3" : {
+            "Vibrotactile" : {
+                "Amplitude" : {
+                    "Value" : 40,
+                    "Unit" : "V"
+                },
+                "Frequency" : {
+                    "Value" : 500,
+                    "Unit" : "Hz"
+                },
+                "NumberOfPulse" : {
+                    "Value" : 1,
+                    "Unit" : "None"
+                },
+                "Duration" : {
+                    "Value" : 2,
+                    "Unit" : "ms"
+                }   
+            },
+            "Audio" : {
+                "Intensity" : {
+                    "Left" : {
+                        "AVG" : {
+                            "Value" : 0,
+                            "Unit" : "db(A)"
+                        },
+                        "STD" : {
+                            "Value" : 0,
+                            "Unit" : "db(A)"
+                        }
+                    },
+                    "Right" : {
+                        "AVG" : {
+                            "Value" : 0,
+                            "Unit" : "db(A)"
+                        },
+                        "STD" : {
+                            "Value" : 0,
+                            "Unit" : "db(A)"
+                        }
+                    }
+                },
+                "Duration" : {
+                    "Value" : 0,
+                    "Unit" : "ms"
+                },
+                "Frequency" : {
+                    "Value": 0,
+                    "Unit" : "Hz"
+                }   
+            }
+        },
+	"Signal4" : {
+            "Vibrotactile" : {
+                "Amplitude" : {
+                    "Value" : 120,
+                    "Unit" : "V"
+                },
+                "Frequency" : {
+                    "Value" : 125,
+                    "Unit" : "Hz"
+                },
+                "NumberOfPulse" : {
+                    "Value" : 3,
+                    "Unit" : "None"
+                },
+                "Duration" : {
+                    "Value" : 24,
+                    "Unit" : "ms"
+                }   
+            },
+            "Audio" : {
+                "Intensity" : {
+                    "Left" : {
+                        "AVG" : {
+                            "Value" : 0,
+                            "Unit" : "db(A)"
+                        },
+                        "STD" : {
+                            "Value" : 0,
+                            "Unit" : "db(A)"
+                        }
+                    },
+                    "Right" : {
+                        "AVG" : {
+                            "Value" : 0,
+                            "Unit" : "db(A)"
+                        },
+                        "STD" : {
+                            "Value" : 0,
+                            "Unit" : "db(A)"
+                        }
+                    }
+                },
+                "Duration" : {
+                    "Value" : 0,
+                    "Unit" : "ms"
+                },
+                "Frequency" : {
+                    "Value": 0,
+                    "Unit" : "Hz"
+                }   
+            }
+        },
+	"Signal6" : {
+            "Vibrotactile" : {
+                "Amplitude" : {
+                    "Value" : 120,
+                    "Unit" : "V"
+                },
+                "Frequency" : {
+                    "Value" : 500,
+                    "Unit" : "Hz"
+                },
+                "NumberOfPulse" : {
+                    "Value" : 1,
+                    "Unit" : "None"
+                },
+                "Duration" : {
+                    "Value" : 2,
+                    "Unit" : "ms"
+                }   
+            },
+            "Audio" : {
+                "Intensity" : {
+                    "Left" : {
+                        "AVG" : {
+                            "Value" : 0,
+                            "Unit" : "db(A)"
+                        },
+                        "STD" : {
+                            "Value" : 0,
+                            "Unit" : "db(A)"
+                        }
+                    },
+                    "Right" : {
+                        "AVG" : {
+                            "Value" : 0,
+                            "Unit" : "db(A)"
+                        },
+                        "STD" : {
+                            "Value" : 0,
+                            "Unit" : "db(A)"
+                        }
+                    }
+                },
+                "Duration" : {
+                    "Value" : 0,
+                    "Unit" : "ms"
+                },
+                "Frequency" : {
+                    "Value": 0,
+                    "Unit" : "Hz"
+                }   
+            }
+        },
+	"Signal7" : {
+            "Vibrotactile" : {
+                "Amplitude" : {
+                    "Value" : 200,
+                    "Unit" : "V"
+                },
+                "Frequency" : {
+                    "Value" : 125,
+                    "Unit" : "Hz"
+                },
+                "NumberOfPulse" : {
+                    "Value" : 3,
+                    "Unit" : "None"
+                },
+                "Duration" : {
+                    "Value" : 24,
+                    "Unit" : "ms"
+                }   
+            },
+            "Audio" : {
+                "Intensity" : {
+                    "Left" : {
+                        "AVG" : {
+                            "Value" : 0,
+                            "Unit" : "db(A)"
+                        },
+                        "STD" : {
+                            "Value" : 0,
+                            "Unit" : "db(A)"
+                        }
+                    },
+                    "Right" : {
+                        "AVG" : {
+                            "Value" : 0,
+                            "Unit" : "db(A)"
+                        },
+                        "STD" : {
+                            "Value" : 0,
+                            "Unit" : "db(A)"
+                        }
+                    }
+                },
+                "Duration" : {
+                    "Value" : 0,
+                    "Unit" : "ms"
+                },
+                "Frequency" : {
+                    "Value": 0,
+                    "Unit" : "Hz"
+                }   
+            }
+        },
+	"Signal9" : {
+            "Vibrotactile" : {
+                "Amplitude" : {
+                    "Value" : 200,
+                    "Unit" : "V"
+                },
+                "Frequency" : {
+                    "Value" : 500,
+                    "Unit" : "Hz"
+                },
+                "NumberOfPulse" : {
+                    "Value" : 1,
+                    "Unit" : "None"
+                },
+                "Duration" : {
+                    "Value" : 2,
+                    "Unit" : "ms"
+                }   
+            },
+            "Audio" : {
+                "Intensity" : {
+                    "Left" : {
+                        "AVG" : {
+                            "Value" : 0,
+                            "Unit" : "db(A)"
+                        },
+                        "STD" : {
+                            "Value" : 0,
+                            "Unit" : "db(A)"
+                        }
+                    },
+                    "Right" : {
+                        "AVG" : {
+                            "Value" : 0,
+                            "Unit" : "db(A)"
+                        },
+                        "STD" : {
+                            "Value" : 0,
+                            "Unit" : "db(A)"
+                        }
+                    }
+                },
+                "Duration" : {
+                    "Value" : 0,
+                    "Unit" : "ms"
+                },
+                "Frequency" : {
+                    "Value": 0,
+                    "Unit" : "Hz"
+                }   
+            }
+        }
+    },
+    "C2" : {
+	"Signal1" : {
+            "Vibrotactile" : {
+                "Amplitude" : {
+                    "Value" : 40,
+                    "Unit" : "V"
+                },
+                "Frequency" : {
+                    "Value" : 125,
+                    "Unit" : "Hz"
+                },
+                "NumberOfPulse" : {
+                    "Value" : 3,
+                    "Unit" : "None"
+                },
+                "Duration" : {
+                    "Value" : 24,
+                    "Unit" : "ms"
+                }   
+            },
+            "Audio" : {
+                "Intensity" : {
+                    "Left" : {
+                        "AVG" : {
+                            "Value" : 68.08,
+                            "Unit" : "db(A)"
+                        },
+                        "STD" : {
+                            "Value" : 0.3,
+                            "Unit" : "db(A)"
+                        }
+                    },
+                    "Right" : {
+                        "AVG" : {
+                            "Value" : 66.92,
+                            "Unit" : "db(A)"
+                        },
+                        "STD" : {
+                            "Value" : 0.37,
+                            "Unit" : "db(A)"
+                        }
+                    }
+                },
+                "Duration" : {
+                    "Value" : 13.3,
+                    "Unit" : "ms"
+                }, 
+                "Frequency" : {
+                    "Value": 750,
+                    "Unit" : "Hz"
+                }   
+            }
+        },
+	"Signal3" : {
+            "Vibrotactile" : {
+                "Amplitude" : {
+                    "Value" : 40,
+                    "Unit" : "V"
+                },
+                "Frequency" : {
+                    "Value" : 500,
+                    "Unit" : "Hz"
+                },
+                "NumberOfPulse" : {
+                    "Value" : 1,
+                    "Unit" : "None"
+                },
+                "Duration" : {
+                    "Value" : 2,
+                    "Unit" : "ms"
+                }   
+            },
+            "Audio" : {
+                "Intensity" : {
+                    "Left" : {
+                        "AVG" : {
+                            "Value" : 68.08,
+                            "Unit" : "db(A)"
+                        },
+                        "STD" : {
+                            "Value" : 0.3,
+                            "Unit" : "db(A)"
+                        }
+                    },
+                    "Right" : {
+                        "AVG" : {
+                            "Value" : 66.92,
+                            "Unit" : "db(A)"
+                        },
+                        "STD" : {
+                            "Value" : 0.37,
+                            "Unit" : "db(A)"
+                        }
+                    }
+                },
+                "Duration" : {
+                    "Value" : 13.3,
+                    "Unit" : "ms"
+                }, 
+                "Frequency" : {
+                    "Value": 750,
+                    "Unit" : "Hz"
+                }   
+            }
+        },
+	"Signal4" : {
+            "Vibrotactile" : {
+                "Amplitude" : {
+                    "Value" : 120,
+                    "Unit" : "V"
+                },
+                "Frequency" : {
+                    "Value" : 125,
+                    "Unit" : "Hz"
+                },
+                "NumberOfPulse" : {
+                    "Value" : 3,
+                    "Unit" : "None"
+                },
+                "Duration" : {
+                    "Value" : 24,
+                    "Unit" : "ms"
+                }   
+            },
+            "Audio" : {
+                "Intensity" : {
+                    "Left" : {
+                        "AVG" : {
+                            "Value" : 80.96,
+                            "Unit" : "db(A)"
+                        },
+                        "STD" : {
+                            "Value" : 0.38,
+                            "Unit" : "db(A)"
+                        }
+                    },
+                    "Right" : {
+                        "AVG" : {
+                            "Value" : 79.52,
+                            "Unit" : "db(A)"
+                        },
+                        "STD" : {
+                            "Value" : 0.29,
+                            "Unit" : "db(A)"
+                        }
+                    }
+                },
+                "Duration" : {
+                    "Value" : 13.3,
+                    "Unit" : "ms"
+                }, 
+                "Frequency" : {
+                    "Value": 750,
+                    "Unit" : "Hz"
+                }   
+            }
+        },
+	"Signal6" : {
+            "Vibrotactile" : {
+                "Amplitude" : {
+                    "Value" : 120,
+                    "Unit" : "V"
+                },
+                "Frequency" : {
+                    "Value" : 500,
+                    "Unit" : "Hz"
+                },
+                "NumberOfPulse" : {
+                    "Value" : 1,
+                    "Unit" : "None"
+                },
+                "Duration" : {
+                    "Value" : 2,
+                    "Unit" : "ms"
+                }   
+            },
+            "Audio" : {
+                "Intensity" : {
+                    "Left" : {
+                        "AVG" : {
+                            "Value" : 80.96,
+                            "Unit" : "db(A)"
+                        },
+                        "STD" : {
+                            "Value" : 0.38,
+                            "Unit" : "db(A)"
+                        }
+                    },
+                    "Right" : {
+                        "AVG" : {
+                            "Value" : 79.52,
+                            "Unit" : "db(A)"
+                        },
+                        "STD" : {
+                            "Value" : 0.29,
+                            "Unit" : "db(A)"
+                        }
+                    }
+                },
+                "Duration" : {
+                    "Value" : 13.3,
+                    "Unit" : "ms"
+                }, 
+                "Frequency" : {
+                    "Value": 750,
+                    "Unit" : "Hz"
+                }   
+            }
+        },
+	"Signal7" : {
+            "Vibrotactile" : {
+                "Amplitude" : {
+                    "Value" : 200,
+                    "Unit" : "V"
+                },
+                "Frequency" : {
+                    "Value" : 125,
+                    "Unit" : "Hz"
+                },
+                "NumberOfPulse" : {
+                    "Value" : 3,
+                    "Unit" : "None"
+                },
+                "Duration" : {
+                    "Value" : 24,
+                    "Unit" : "ms"
+                }   
+            },
+            "Audio" : {
+                "Intensity" : {
+                    "Left" : {
+                        "AVG" : {
+                            "Value" : 93.88,
+                            "Unit" : "db(A)"
+                        },
+                        "STD" : {
+                            "Value" : 0.44,
+                            "Unit" : "db(A)"
+                        }
+                    },
+                    "Right" : {
+                        "AVG" : {
+                            "Value" : 92.2,
+                            "Unit" : "db(A)"
+                        },
+                        "STD" : {
+                            "Value" : 0.41,
+                            "Unit" : "db(A)"
+                        }
+                    }
+                },
+                "Duration" : {
+                    "Value" : 13.3,
+                    "Unit" : "ms"
+                }, 
+                "Frequency" : {
+                    "Value": 750,
+                    "Unit" : "Hz"
+                }   
+            }
+        },
+	"Signal9" : {
+            "Vibrotactile" : {
+                "Amplitude" : {
+                    "Value" : 200,
+                    "Unit" : "V"
+                },
+                "Frequency" : {
+                    "Value" : 500,
+                    "Unit" : "Hz"
+                },
+                "NumberOfPulse" : {
+                    "Value" : 1,
+                    "Unit" : "None"
+                },
+                "Duration" : {
+                    "Value" : 2,
+                    "Unit" : "ms"
+                }   
+            },
+            "Audio" : {
+                "Intensity" : {
+                    "Left" : {
+                        "AVG" : {
+                            "Value" : 93.88,
+                            "Unit" : "db(A)"
+                        },
+                        "STD" : {
+                            "Value" : 0.44,
+                            "Unit" : "db(A)"
+                        }
+                    },
+                    "Right" : {
+                        "AVG" : {
+                            "Value" : 92.2,
+                            "Unit" : "db(A)"
+                        },
+                        "STD" : {
+                            "Value" : 0.41,
+                            "Unit" : "db(A)"
+                        }
+                    }
+                },
+                "Duration" : {
+                    "Value" : 13.3,
+                    "Unit" : "ms"
+                }, 
+                "Frequency" : {
+                    "Value": 750,
+                    "Unit" : "Hz"
+                }   
+            }
+        }
+    },
+    "C3" : {
+	"Signal1" : {
+            "Vibrotactile" : {
+                "Amplitude" : {
+                    "Value" : 40,
+                    "Unit" : "V"
+                },
+                "Frequency" : {
+                    "Value" : 125,
+                    "Unit" : "Hz"
+                },
+                "NumberOfPulse" : {
+                    "Value" : 3,
+                    "Unit" : "None"
+                },
+                "Duration" : {
+                    "Value" : 24,
+                    "Unit" : "ms"
+                }
+            },
+            "Audio" : {
+                "Intensity" : {
+                    "Left" : {
+                        "AVG" : {
+                            "Value" : 80.96,
+                            "Unit" : "db(A)"
+                        },
+                        "STD" : {
+                            "Value" : 0.38,
+                            "Unit" : "db(A)"
+                        }
+                    },
+                    "Right" : {
+                        "AVG" : {
+                            "Value" : 79.52,
+                            "Unit" : "db(A)"
+                        },
+                        "STD" : {
+                            "Value" : 0.29,
+                            "Unit" : "db(A)"
+                        }
+                    }
+                },
+                "Duration" : {
+                    "Value" : 26.6,
+                    "Unit" : "ms"
+                }, 
+                "Frequency" : {
+                    "Value": 150,
+                    "Unit" : "Hz"
+                }   
+            }
+	},
+	"Signal3" : {
+            "Vibrotactile" : {
+                "Amplitude" : {
+                    "Value" : 40,
+                    "Unit" : "V"
+                },
+                "Frequency" : {
+                    "Value" : 500,
+                    "Unit" : "Hz"
+                },
+                "NumberOfPulse" : {
+                    "Value" : 1,
+                    "Unit" : "None"
+                },
+                "Duration" : {
+                    "Value" : 2,
+                    "Unit" : "ms"
+                }   
+            },
+            "Audio" : {
+                "Intensity" : {
+                    "Left" : {
+                        "AVG" : {
+                            "Value" : 80.96,
+                            "Unit" : "db(A)"
+                        },
+                        "STD" : {
+                            "Value" : 0.38,
+                            "Unit" : "db(A)"
+                        }
+                    },
+                    "Right" : {
+                        "AVG" : {
+                            "Value" : 79.52,
+                            "Unit" : "db(A)"
+                        },
+                        "STD" : {
+                            "Value" : 0.29,
+                            "Unit" : "db(A)"
+                        }
+                    }
+                },
+                "Duration" : {
+                    "Value" : 10,
+                    "Unit" : "ms"
+                }, 
+                "Frequency" : {
+                    "Value": 4000,
+                    "Unit" : "Hz"
+                }   
+            }
+        },
+	"Signal4" : {
+            "Vibrotactile" : {
+                "Amplitude" : {
+                    "Value" : 120,
+                    "Unit" : "V"
+                },
+                "Frequency" : {
+                    "Value" : 125,
+                    "Unit" : "Hz"
+                },
+                "NumberOfPulse" : {
+                    "Value" : 3,
+                    "Unit" : "None"
+                },
+                "Duration" : {
+                    "Value" : 24,
+                    "Unit" : "ms"
+                }   
+            },
+            "Audio" : {
+                "Intensity" : {
+                    "Left" : {
+                        "AVG" : {
+                            "Value" : 80.96,
+                            "Unit" : "db(A)"
+                        },
+                        "STD" : {
+                            "Value" : 0.38,
+                            "Unit" : "db(A)"
+                        }
+                    },
+                    "Right" : {
+                        "AVG" : {
+                            "Value" : 79.52,
+                            "Unit" : "db(A)"
+                        },
+                        "STD" : {
+                            "Value" : 0.29,
+                            "Unit" : "db(A)"
+                        }
+                    }
+                },
+                "Duration" : {
+                    "Value" : 26.6,
+                    "Unit" : "ms"
+                }, 
+                "Frequency" : {
+                    "Value": 150,
+                    "Unit" : "Hz"
+                }   
+            }
+        },
+	"Signal6" : {
+            "Vibrotactile" : {
+                "Amplitude" : {
+                    "Value" : 120,
+                    "Unit" : "V"
+                },
+                "Frequency" : {
+                    "Value" : 500,
+                    "Unit" : "Hz"
+                },
+                "NumberOfPulse" : {
+                    "Value" : 1,
+                    "Unit" : "None"
+                },
+                "Duration" : {
+                    "Value" : 2,
+                    "Unit" : "ms"
+                }   
+            },
+            "Audio" : {
+                "Intensity" : {
+                    "Left" : {
+                        "AVG" : {
+                            "Value" : 80.96,
+                            "Unit" : "db(A)"
+                        },
+                        "STD" : {
+                            "Value" : 0.38,
+                            "Unit" : "db(A)"
+                        }
+                    },
+                    "Right" : {
+                        "AVG" : {
+                            "Value" : 79.52,
+                            "Unit" : "db(A)"
+                        },
+                        "STD" : {
+                            "Value" : 0.29,
+                            "Unit" : "db(A)"
+                        }
+                    }
+                },
+                "Duration" : {
+                    "Value" : 10,
+                    "Unit" : "ms"
+                }, 
+                "Frequency" : {
+                    "Value": 4000,
+                    "Unit" : "Hz"
+                }   
+            }
+        },
+	"Signal7" : {
+            "Vibrotactile" : {
+                "Amplitude" : {
+                    "Value" : 200,
+                    "Unit" : "V"
+                },
+                "Frequency" : {
+                    "Value" : 125,
+                    "Unit" : "Hz"
+                },
+                "NumberOfPulse" : {
+                    "Value" : 3,
+                    "Unit" : "None"
+                },
+                "Duration" : {
+                    "Value" : 24,
+                    "Unit" : "ms"
+                }   
+            },
+            "Audio" : {
+                "Intensity" : {
+                    "Left" : {
+                        "AVG" : {
+                            "Value" : 80.96,
+                            "Unit" : "db(A)"
+                        },
+                        "STD" : {
+                            "Value" : 0.38,
+                            "Unit" : "db(A)"
+                        }
+                    },
+                    "Right" : {
+                        "AVG" : {
+                            "Value" : 79.52,
+                            "Unit" : "db(A)"
+                        },
+                        "STD" : {
+                            "Value" : 0.29,
+                            "Unit" : "db(A)"
+                        }
+                    }
+                },
+                "Duration" : {
+                    "Value" : 26.6,
+                    "Unit" : "ms"
+                }, 
+                "Frequency" : {
+                    "Value": 150,
+                    "Unit" : "Hz"
+                }   
+            }
+        },
+	"Signal9" : {
+            "Vibrotactile" : {
+                "Amplitude" : {
+                    "Value" : 200,
+                    "Unit" : "V"
+                },
+                "Frequency" : {
+                    "Value" : 500,
+                    "Unit" : "Hz"
+                },
+                "NumberOfPulse" : {
+                    "Value" : 1,
+                    "Unit" : "None"
+                },
+                "Duration" : {
+                    "Value" : 2,
+                    "Unit" : "ms"
+                }   
+            },
+            "Audio" : {
+                "Intensity" : {
+                    "Left" : {
+                        "AVG" : {
+                            "Value" : 80.96,
+                            "Unit" : "db(A)"
+                        },
+                        "STD" : {
+                            "Value" : 0.38,
+                            "Unit" : "db(A)"
+                        }
+                    },
+                    "Right" : {
+                        "AVG" : {
+                            "Value" : 79.52,
+                            "Unit" : "db(A)"
+                        },
+                        "STD" : {
+                            "Value" : 0.29,
+                            "Unit" : "db(A)"
+                        }
+                    }
+                },
+                "Duration" : {
+                    "Value" : 10,
+                    "Unit" : "ms"
+                }, 
+                "Frequency" : {
+                    "Value": 4000,
+                    "Unit" : "Hz"
+                }   
+            }
+        }
+    },
+    "C4" : {
+	"Signal1" : {
+            "Vibrotactile" : {
+                "Amplitude" : {
+                    "Value" : 40,
+                    "Unit" : "V"
+                },
+                "Frequency" : {
+                    "Value" : 125,
+                    "Unit" : "Hz"
+                },
+                "NumberOfPulse" : {
+                    "Value" : 3,
+                    "Unit" : "None"
+                },
+                "Duration" : {
+                    "Value" : 24,
+                    "Unit" : "ms"
+                }
+            },
+            "Audio" : {
+                "Intensity" : {
+                    "Left" : {
+                        "AVG" : {
+                            "Value" : 54.46,
+                            "Unit" : "db(A)"
+                        },
+                        "STD" : {
+                            "Value" : 0.66,
+                            "Unit" : "db(A)"
+                        }
+                    },
+                    "Right" : {
+                        "AVG" : {
+                            "Value" : 55.1,
+                            "Unit" : "db(A)"
+                        },
+                        "STD" : {
+                            "Value" : 0.54,
+                            "Unit" : "db(A)"
+                        }
+                    }
+                },
+                "Duration" : {
+                    "Value" : 26.6,
+                    "Unit" : "ms"
+                }, 
+                "Frequency" : {
+                    "Value": 150,
+                    "Unit" : "Hz"
+                }   
+            }
+        },
+	"Signal3" : {
+            "Vibrotactile" : {
+                "Amplitude" : {
+                    "Value" : 40,
+                    "Unit" : "V"
+                },
+                "Frequency" : {
+                    "Value" : 500,
+                    "Unit" : "Hz"
+                },
+                "NumberOfPulse" : {
+                    "Value" : 1,
+                    "Unit" : "None"
+                },
+                "Duration" : {
+                    "Value" : 2,
+                    "Unit" : "ms"
+                }   
+            },
+            "Audio" : {
+                "Intensity" : {
+                    "Left" : {
+                        "AVG" : {
+                            "Value" : 68.08,
+                            "Unit" : "db(A)"
+                        },
+                        "STD" : {
+                            "Value" : 0.3,
+                            "Unit" : "db(A)"
+                        }
+                    },
+                    "Right" : {
+                        "AVG" : {
+                            "Value" : 66.62,
+                            "Unit" : "db(A)"
+                        },
+                        "STD" : {
+                            "Value" : 0.37,
+                            "Unit" : "db(A)"
+                        }
+                    }
+                },
+                "Duration" : {
+                    "Value" : 10,
+                    "Unit" : "ms"
+                }, 
+                "Frequency" : {
+                    "Value": 4000,
+                    "Unit" : "Hz"
+                }   
+            }
+        },
+	"Signal4" : {
+            "Vibrotactile" : {
+                "Amplitude" : {
+                    "Value" : 120,
+                    "Unit" : "V"
+                },
+                "Frequency" : {
+                    "Value" : 125,
+                    "Unit" : "Hz"
+                },
+                "NumberOfPulse" : {
+                    "Value" : 3,
+                    "Unit" : "None"
+                },
+                "Duration" : {
+                    "Value" : 24,
+                    "Unit" : "ms"
+                }   
+            },
+            "Audio" : {
+                "Intensity" : {
+                    "Left" : {
+                        "AVG" : {
+                            "Value" : 65.78,
+                            "Unit" : "db(A)"
+                        },
+                        "STD" : {
+                            "Value" : 0.55,
+                            "Unit" : "db(A)"
+                        }
+                    },
+                    "Right" : {
+                        "AVG" : {
+                            "Value" : 62.88,
+                            "Unit" : "db(A)"
+                        },
+                        "STD" : {
+                            "Value" : 0.35,
+                            "Unit" : "db(A)"
+                        }
+                    }
+                },
+                "Duration" : {
+                    "Value" : 26.6,
+                    "Unit" : "ms"
+                }, 
+                "Frequency" : {
+                    "Value": 150,
+                    "Unit" : "Hz"
+                }   
+            }
+        },
+	"Signal6" : {
+            "Vibrotactile" : {
+                "Amplitude" : {
+                    "Value" : 120,
+                    "Unit" : "V"
+                },
+                "Frequency" : {
+                    "Value" : 500,
+                    "Unit" : "Hz"
+                },
+                "NumberOfPulse" : {
+                    "Value" : 1,
+                    "Unit" : "None"
+                },
+                "Duration" : {
+                    "Value" : 2,
+                    "Unit" : "ms"
+                }   
+            },
+            "Audio" : {
+                "Intensity" : {
+                    "Left" : {
+                        "AVG" : {
+                            "Value" : 80.96,
+                            "Unit" : "db(A)"
+                        },
+                        "STD" : {
+                            "Value" : 0.38,
+                            "Unit" : "db(A)"
+                        }
+                    },
+                    "Right" : {
+                        "AVG" : {
+                            "Value" : 79.52,
+                            "Unit" : "db(A)"
+                        },
+                        "STD" : {
+                            "Value" : 0.29,
+                            "Unit" : "db(A)"
+                        }
+                    }
+                },
+                "Duration" : {
+                    "Value" : 10,
+                    "Unit" : "ms"
+                }, 
+                "Frequency" : {
+                    "Value": 4000,
+                    "Unit" : "Hz"
+                }   
+            }
+        },
+	"Signal7" : {
+            "Vibrotactile" : {
+                "Amplitude" : {
+                    "Value" : 200,
+                    "Unit" : "V"
+                },
+                "Frequency" : {
+                    "Value" : 125,
+                    "Unit" : "Hz"
+                },
+                "NumberOfPulse" : {
+                    "Value" : 3,
+                    "Unit" : "None"
+                },
+                "Duration" : {
+                    "Value" : 24,
+                    "Unit" : "ms"
+                }   
+            },
+            "Audio" : {
+                "Intensity" : {
+                    "Left" : {
+                        "AVG" : {
+                            "Value" : 76.24,
+                            "Unit" : "db(A)"
+                        },
+                        "STD" : {
+                            "Value" : 0.42,
+                            "Unit" : "db(A)"
+                        }
+                    },
+                    "Right" : {
+                        "AVG" : {
+                            "Value" : 73.8,
+                            "Unit" : "db(A)"
+                        },
+                        "STD" : {
+                            "Value" : 0.54,
+                            "Unit" : "db(A)"
+                        }
+                    }
+                },
+                "Duration" : {
+                    "Value" : 26.6,
+                    "Unit" : "ms"
+                }, 
+                "Frequency" : {
+                    "Value": 150,
+                    "Unit" : "Hz"
+                }   
+            }
+        },
+	"Signal9" : {
+            "Vibrotactile" : {
+                "Amplitude" : {
+                    "Value" : 200,
+                    "Unit" : "V"
+                },
+                "Frequency" : {
+                    "Value" : 500,
+                    "Unit" : "Hz"
+                },
+                "NumberOfPulse" : {
+                    "Value" : 1,
+                    "Unit" : "None"
+                },
+                "Duration" : {
+                    "Value" : 2,
+                    "Unit" : "ms"
+                }   
+            },
+            "Audio" : {
+                "Intensity" : {
+                    "Left" : {
+                        "AVG" : {
+                            "Value" : 93.88,
+                            "Unit" : "db(A)"
+                        },
+                        "STD" : {
+                            "Value" : 0.44,
+                            "Unit" : "db(A)"
+                        }
+                    },
+                    "Right" : {
+                        "AVG" : {
+                            "Value" : 92.2,
+                            "Unit" : "db(A)"
+                        },
+                        "STD" : {
+                            "Value" : 0.41,
+                            "Unit" : "db(A)"
+                        }
+                    }
+                },
+                "Duration" : {
+                    "Value" : 10,
+                    "Unit" : "ms"
+                }, 
+                "Frequency" : {
+                    "Value": 4000,
+                    "Unit" : "Hz"
+                }   
+            }
+        }
+    },
+    "test" : 5
+    
+}

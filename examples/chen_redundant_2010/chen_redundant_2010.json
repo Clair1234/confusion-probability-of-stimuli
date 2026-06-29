@@ -1,0 +1,202 @@
+{
+  "C1" : {
+    "Signal1": {
+      "Signal1": 400,
+      "Signal3": 12,
+      "Signal4": 71,
+      "Signal6": 5,
+      "Signal7": 2,
+      "Signal9": 0
+    },
+    "Signal3": {
+      "Signal1": 5,
+      "Signal3": 474,
+      "Signal4": 0,
+      "Signal6": 18,
+      "Signal7": 0,
+      "Signal9": 7
+    },
+    "Signal4": {
+      "Signal1": 31,
+      "Signal3": 3,
+      "Signal4": 409,
+      "Signal6": 1,
+      "Signal7": 76,
+      "Signal9": 3
+    },
+    "Signal6": {
+      "Signal1": 4,
+      "Signal3": 66,
+      "Signal4": 2,
+      "Signal6": 347,
+      "Signal7": 0,
+      "Signal9": 63
+    },
+    "Signal7": {
+      "Signal1": 6,
+      "Signal3": 1,
+      "Signal4": 117,
+      "Signal6": 5,
+      "Signal7": 377,
+      "Signal9": 5
+    },
+    "Signal9": {
+      "Signal1": 1,
+      "Signal3": 10,
+      "Signal4": 3,
+      "Signal6": 92,
+      "Signal7": 0,
+      "Signal9": 384
+    }
+  },
+  "C2" : {
+    "Signal1": {
+      "Signal1": 438,
+      "Signal3": 23,
+      "Signal4": 25,
+      "Signal6": 2,
+      "Signal7": 0,
+      "Signal9": 0
+    },
+    "Signal3": {
+      "Signal1": 63,
+      "Signal3": 440,
+      "Signal4": 2,
+      "Signal6": 8,
+      "Signal7": 0,
+      "Signal9": 0
+    },
+    "Signal4": {
+      "Signal1": 14,
+      "Signal3": 1,
+      "Signal4": 438,
+      "Signal6": 16,
+      "Signal7": 7,
+      "Signal9": 0
+    },
+    "Signal6": {
+      "Signal1": 9,
+      "Signal3": 32,
+      "Signal4": 41,
+      "Signal6": 416,
+      "Signal7": 0,
+      "Signal9": 2
+    },
+    "Signal7": {
+      "Signal1": 0,
+      "Signal3": 0,
+      "Signal4": 7,
+      "Signal6": 2,
+      "Signal7": 435,
+      "Signal9": 64
+    },
+    "Signal9": {
+      "Signal1": 0,
+      "Signal3": 0,
+      "Signal4": 0,
+      "Signal6": 16,
+      "Signal7": 33,
+      "Signal9": 466
+    }
+  },
+  "C3" : {
+    "Signal1": {
+      "Signal1": 411,
+      "Signal3": 2,
+      "Signal4": 59,
+      "Signal6": 0,
+      "Signal7": 8,
+      "Signal9": 0
+    },
+    "Signal3": {
+      "Signal1": 1,
+      "Signal3": 428,
+      "Signal4": 0,
+      "Signal6": 100,
+      "Signal7": 0,
+      "Signal9": 4
+    },
+    "Signal4": {
+      "Signal1": 55,
+      "Signal3": 0,
+      "Signal4": 348,
+      "Signal6": 3,
+      "Signal7": 138,
+      "Signal9": 0
+    },
+    "Signal6": {
+      "Signal1": 1,
+      "Signal3": 23,
+      "Signal4": 2,
+      "Signal6": 361,
+      "Signal7": 0,
+      "Signal9": 101
+    },
+    "Signal7": {
+      "Signal1": 5,
+      "Signal3": 0,
+      "Signal4": 108,
+      "Signal6": 3,
+      "Signal7": 343,
+      "Signal9": 1
+    },
+    "Signal9": {
+      "Signal1": 0,
+      "Signal3": 2,
+      "Signal4": 1,
+      "Signal6": 93,
+      "Signal7": 5,
+      "Signal9": 394
+    }
+  },
+  "C4" : {
+    "Signal1": {
+      "Signal1": 466,
+      "Signal3": 2,
+      "Signal4": 37,
+      "Signal6": 0,
+      "Signal7": 0,
+      "Signal9": 0
+    },
+    "Signal3": {
+      "Signal1": 1,
+      "Signal3": 474,
+      "Signal4": 0,
+      "Signal6": 2,
+      "Signal7": 0,
+      "Signal9": 0
+    },
+    "Signal4": {
+      "Signal1": 5,
+      "Signal3": 0,
+      "Signal4": 427,
+      "Signal6": 2,
+      "Signal7": 16,
+      "Signal9": 0
+    },
+    "Signal6": {
+      "Signal1": 0,
+      "Signal3": 15,
+      "Signal4": 2,
+      "Signal6": 483,
+      "Signal7": 0,
+      "Signal9": 5
+    },
+    "Signal7": {
+      "Signal1": 0,
+      "Signal3": 0,
+      "Signal4": 17,
+      "Signal6": 0,
+      "Signal7": 509,
+      "Signal9": 2
+    },
+    "Signal9": {
+      "Signal1": 0,
+      "Signal3": 0,
+      "Signal4": 0,
+      "Signal6": 10,
+      "Signal7": 2,
+      "Signal9": 523
+    }
+  }
+}
