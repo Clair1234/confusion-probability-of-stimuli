@@ -33,7 +33,7 @@ Physical properties of stimuli -> Per-dimension distances -> Integrated distance
 #### 1. Compute dimensional distances
 Two dictionnaries have to be defined, here they are extracted from .json files (see [docs/input_format.md](docs/input_format.md) for input description):
 - stimuli: explains the characteristics of stimuli.
-- jnd: lists the discrimination thresholds (or "Just Noticeable Difference").
+- jnd: lists the discrimination thresholds (or ``Just Noticeable Difference``).
 
 The function that is responsable for computing the dimensional distances takes two arguments and is:
 ```
@@ -46,7 +46,7 @@ There are two outputs:
 - a list that gives you the categories, if any (for examplefor Sand et al there are none but for Chen et al. there are four categories (C1), (C2), (C3), (C4))
 
 #### 2. Compute total distance
-Two dictionaries have to be defined, here one comes from the ``compute_dimensional_distances'' function and the other is extracted from a .json file (see [docs/input_format.md](docs/input_format.md) for input description):
+Two dictionaries have to be defined, here one comes from the ``compute_dimensional_distances`` function and the other is extracted from a .json file (see [docs/input_format.md](docs/input_format.md) for input description):
 - results: describes dimension per dimension the pairwise distances between stimuli.
 - weights: lists the weights attributed to each dimension in results.
 
@@ -59,27 +59,27 @@ There is one output : the total distance matrix between stimuli.
 This function is available in [src/distances/combine_dimensions.py](src/distances/combine_dimensions.py).
 
 #### 3. Compute confusion matrix
-One dictionaru has to be defined, here it comes from the ``compute_global_distance'' function :
+One dictionaru has to be defined, here it comes from the ``compute_global_distance`` function :
 - global_distance: describes the pairwise distances between stimuli.
 
-It can take optional variables such as ``alpha'' and ``beta'' to change the parameters of the logistic function (see [docs/theory.md](docs/theory.md) for details).
+It can take optional variables such as ``alpha`` and ``beta`` to change the parameters of the logistic function (see [docs/theory.md](docs/theory.md) for details).
 
 The funciton that is responsible for the translation of distances into proability of confusion is: 
 ```
 distance_to_confusion(global_distance)
 ```
-There is one output : the ***not normalised*** confusion matrix.
+There is one output : the **not normalised** confusion matrix.
 
 This function is available in [src/confusion/compute_confusion.py](src/confusion/compute_confusion.py).
 
-The ``normalize'' function (available in [src/confusion/normalize.py](src/confusion/normalize.py)) normlize the confusion matrix. 
+The ``normalize`` function (available in [src/confusion/normalize.py](src/confusion/normalize.py)) normlize the confusion matrix. 
 
 #### 4. Evaluate results
 If a confusion matrix otherwise obtained (such as through user tests) is available. The similarities between the confusion matrices can be evaluated with multiple functions from [src/evaluation/metrics.py](src/evaluation/metrics.py). Two dictionaries need to be defined, here they are stored in .json files (see [docs/input_format.md](docs/input_format.md) for input description):
 - reference.json: gives the confusion matrix of reference
 - prediction.json: gives the confusion matrix from the method
 
-A pipeline of evaluation is available and requires a ``out_folder'' to store the output:
+A pipeline of evaluation is available and requires a ``out_folder`` to store the output:
 ```
 validate.py --ref reference.json --prediction prediciton.json --out out_folder
 ```
