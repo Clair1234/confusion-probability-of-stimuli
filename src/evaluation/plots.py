@@ -54,7 +54,7 @@ def plot_linear_regression(prediction, reference) :
     y = df["data_article"]
 
     slope, intercept = np.polyfit(x, y, 1)
-    print(f"y = {slope:.3f}x + {intercept:.3f}")
+    #print(f"y = {slope:.3f}x + {intercept:.3f}")
 
     
     #PLOT
