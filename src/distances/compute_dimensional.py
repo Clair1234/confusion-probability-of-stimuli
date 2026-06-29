@@ -68,7 +68,7 @@ def compute_dimensional_distances(stimuli, jnd):
             if len(set(units)) != 1:
                 raise ValueError(f"Unit mismatch in dimension {dimension}")
            
-            jnd_value, jnd_unit = get_jnd_for_dimension(jnd, dim_keys)
+            jnd_value, jnd_unit, _ = get_jnd_for_dimension(jnd, dim_keys)
 
             matrix = {}
 
@@ -183,7 +183,8 @@ def get_jnd_for_dimension(jnd, dimension_keys):
     for dim in dimension_keys:
         for jnd_key in jnd_dimensions.keys():
             if jnd_key in dim:
-                return jnd_dimensions[jnd_key]["Value"], jnd_dimensions[jnd_key]["Unit"]
+                jnd_name = modality + "." + jnd_key
+                return jnd_dimensions[jnd_key]["Value"], jnd_dimensions[jnd_key]["Unit"], jnd_name
     
     print(f"WARNING: Dimension is {dimension_keys} \nbut the JND file as the following keys:\n{jnd.keys()} ")
     raise ValueError(f"No JND found for {dimension_keys}")
