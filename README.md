@@ -85,9 +85,9 @@ validate.py --ref reference.json --prediction prediciton.json --out out_folder
 ```
 
 #### Integrated first 3 steps
-See integrated pipeline with an exemple: 
+See integrated pipeline with an exemple. The integrated first 3 steps requires a ``out_folder`` to store the output: 
 ```
-python generate_confusion_matrix.py --stimuli examples\sand_evaluating_2020\stimuli.json --jnd examples\jnd.json --weights examples\sand_evaluating_2020\weights.jnd
+python generate_confusion_matrix.py --stimuli examples\sand_evaluating_2020\stimuli.json --jnd examples\jnd.json --weights examples\sand_evaluating_2020\weights.jnd --out out_folder
 ```
 
 ### Input files 
