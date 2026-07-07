@@ -3,300 +3,50 @@
     "Vibrotactile.Duration": {
       "Signal1": {
         "Signal1": 0,
-        "Signal3": 3.1884057971014492,
+        "Signal3": 3.216374269005848,
         "Signal4": 0,
-        "Signal6": 3.1884057971014492,
+        "Signal6": 3.216374269005848,
         "Signal7": 0,
-        "Signal9": 3.1884057971014492
+        "Signal9": 3.216374269005848
       },
       "Signal3": {
-        "Signal1": 3.1884057971014492,
+        "Signal1": 3.216374269005848,
         "Signal3": 0,
-        "Signal4": 3.1884057971014492,
+        "Signal4": 3.216374269005848,
         "Signal6": 0,
-        "Signal7": 3.1884057971014492,
+        "Signal7": 3.216374269005848,
         "Signal9": 0
       },
       "Signal4": {
         "Signal1": 0,
-        "Signal3": 3.1884057971014492,
+        "Signal3": 3.216374269005848,
         "Signal4": 0,
-        "Signal6": 3.1884057971014492,
+        "Signal6": 3.216374269005848,
         "Signal7": 0,
-        "Signal9": 3.1884057971014492
+        "Signal9": 3.216374269005848
       },
       "Signal6": {
-        "Signal1": 3.1884057971014492,
+        "Signal1": 3.216374269005848,
         "Signal3": 0,
-        "Signal4": 3.1884057971014492,
+        "Signal4": 3.216374269005848,
         "Signal6": 0,
-        "Signal7": 3.1884057971014492,
+        "Signal7": 3.216374269005848,
         "Signal9": 0
       },
       "Signal7": {
         "Signal1": 0,
-        "Signal3": 3.1884057971014492,
+        "Signal3": 3.216374269005848,
         "Signal4": 0,
-        "Signal6": 3.1884057971014492,
+        "Signal6": 3.216374269005848,
         "Signal7": 0,
-        "Signal9": 3.1884057971014492
+        "Signal9": 3.216374269005848
       },
       "Signal9": {
-        "Signal1": 3.1884057971014492,
+        "Signal1": 3.216374269005848,
         "Signal3": 0,
-        "Signal4": 3.1884057971014492,
+        "Signal4": 3.216374269005848,
         "Signal6": 0,
-        "Signal7": 3.1884057971014492,
-        "Signal9": 0
-      }
-    },
-    "Audio.Intensity.Right.STD": {
-      "Signal1": {
-        "Signal1": 0,
-        "Signal3": 0,
-        "Signal4": 0,
-        "Signal6": 0,
-        "Signal7": 0,
-        "Signal9": 0
-      },
-      "Signal3": {
-        "Signal1": 0,
-        "Signal3": 0,
-        "Signal4": 0,
-        "Signal6": 0,
-        "Signal7": 0,
-        "Signal9": 0
-      },
-      "Signal4": {
-        "Signal1": 0,
-        "Signal3": 0,
-        "Signal4": 0,
-        "Signal6": 0,
-        "Signal7": 0,
-        "Signal9": 0
-      },
-      "Signal6": {
-        "Signal1": 0,
-        "Signal3": 0,
-        "Signal4": 0,
-        "Signal6": 0,
-        "Signal7": 0,
-        "Signal9": 0
-      },
-      "Signal7": {
-        "Signal1": 0,
-        "Signal3": 0,
-        "Signal4": 0,
-        "Signal6": 0,
-        "Signal7": 0,
-        "Signal9": 0
-      },
-      "Signal9": {
-        "Signal1": 0,
-        "Signal3": 0,
-        "Signal4": 0,
-        "Signal6": 0,
-        "Signal7": 0,
-        "Signal9": 0
-      }
-    },
-    "Audio.Intensity.Left.AVG": {
-      "Signal1": {
-        "Signal1": 0,
-        "Signal3": 0,
-        "Signal4": 0,
-        "Signal6": 0,
-        "Signal7": 0,
-        "Signal9": 0
-      },
-      "Signal3": {
-        "Signal1": 0,
-        "Signal3": 0,
-        "Signal4": 0,
-        "Signal6": 0,
-        "Signal7": 0,
-        "Signal9": 0
-      },
-      "Signal4": {
-        "Signal1": 0,
-        "Signal3": 0,
-        "Signal4": 0,
-        "Signal6": 0,
-        "Signal7": 0,
-        "Signal9": 0
-      },
-      "Signal6": {
-        "Signal1": 0,
-        "Signal3": 0,
-        "Signal4": 0,
-        "Signal6": 0,
-        "Signal7": 0,
-        "Signal9": 0
-      },
-      "Signal7": {
-        "Signal1": 0,
-        "Signal3": 0,
-        "Signal4": 0,
-        "Signal6": 0,
-        "Signal7": 0,
-        "Signal9": 0
-      },
-      "Signal9": {
-        "Signal1": 0,
-        "Signal3": 0,
-        "Signal4": 0,
-        "Signal6": 0,
-        "Signal7": 0,
-        "Signal9": 0
-      }
-    },
-    "Vibrotactile.Frequency": {
-      "Signal1": {
-        "Signal1": 0,
-        "Signal3": 4.545454545454545,
-        "Signal4": 0,
-        "Signal6": 4.545454545454545,
-        "Signal7": 0,
-        "Signal9": 4.545454545454545
-      },
-      "Signal3": {
-        "Signal1": 4.545454545454545,
-        "Signal3": 0,
-        "Signal4": 4.545454545454545,
-        "Signal6": 0,
-        "Signal7": 4.545454545454545,
-        "Signal9": 0
-      },
-      "Signal4": {
-        "Signal1": 0,
-        "Signal3": 4.545454545454545,
-        "Signal4": 0,
-        "Signal6": 4.545454545454545,
-        "Signal7": 0,
-        "Signal9": 4.545454545454545
-      },
-      "Signal6": {
-        "Signal1": 4.545454545454545,
-        "Signal3": 0,
-        "Signal4": 4.545454545454545,
-        "Signal6": 0,
-        "Signal7": 4.545454545454545,
-        "Signal9": 0
-      },
-      "Signal7": {
-        "Signal1": 0,
-        "Signal3": 4.545454545454545,
-        "Signal4": 0,
-        "Signal6": 4.545454545454545,
-        "Signal7": 0,
-        "Signal9": 4.545454545454545
-      },
-      "Signal9": {
-        "Signal1": 4.545454545454545,
-        "Signal3": 0,
-        "Signal4": 4.545454545454545,
-        "Signal6": 0,
-        "Signal7": 4.545454545454545,
-        "Signal9": 0
-      }
-    },
-    "Audio.Intensity.Left.STD": {
-      "Signal1": {
-        "Signal1": 0,
-        "Signal3": 0,
-        "Signal4": 0,
-        "Signal6": 0,
-        "Signal7": 0,
-        "Signal9": 0
-      },
-      "Signal3": {
-        "Signal1": 0,
-        "Signal3": 0,
-        "Signal4": 0,
-        "Signal6": 0,
-        "Signal7": 0,
-        "Signal9": 0
-      },
-      "Signal4": {
-        "Signal1": 0,
-        "Signal3": 0,
-        "Signal4": 0,
-        "Signal6": 0,
-        "Signal7": 0,
-        "Signal9": 0
-      },
-      "Signal6": {
-        "Signal1": 0,
-        "Signal3": 0,
-        "Signal4": 0,
-        "Signal6": 0,
-        "Signal7": 0,
-        "Signal9": 0
-      },
-      "Signal7": {
-        "Signal1": 0,
-        "Signal3": 0,
-        "Signal4": 0,
-        "Signal6": 0,
-        "Signal7": 0,
-        "Signal9": 0
-      },
-      "Signal9": {
-        "Signal1": 0,
-        "Signal3": 0,
-        "Signal4": 0,
-        "Signal6": 0,
-        "Signal7": 0,
-        "Signal9": 0
-      }
-    },
-    "Audio.Duration": {
-      "Signal1": {
-        "Signal1": 0,
-        "Signal3": 0,
-        "Signal4": 0,
-        "Signal6": 0,
-        "Signal7": 0,
-        "Signal9": 0
-      },
-      "Signal3": {
-        "Signal1": 0,
-        "Signal3": 0,
-        "Signal4": 0,
-        "Signal6": 0,
-        "Signal7": 0,
-        "Signal9": 0
-      },
-      "Signal4": {
-        "Signal1": 0,
-        "Signal3": 0,
-        "Signal4": 0,
-        "Signal6": 0,
-        "Signal7": 0,
-        "Signal9": 0
-      },
-      "Signal6": {
-        "Signal1": 0,
-        "Signal3": 0,
-        "Signal4": 0,
-        "Signal6": 0,
-        "Signal7": 0,
-        "Signal9": 0
-      },
-      "Signal7": {
-        "Signal1": 0,
-        "Signal3": 0,
-        "Signal4": 0,
-        "Signal6": 0,
-        "Signal7": 0,
-        "Signal9": 0
-      },
-      "Signal9": {
-        "Signal1": 0,
-        "Signal3": 0,
-        "Signal4": 0,
-        "Signal6": 0,
-        "Signal7": 0,
+        "Signal7": 3.216374269005848,
         "Signal9": 0
       }
     },
@@ -400,6 +150,106 @@
         "Signal9": 0
       }
     },
+    "Audio.Duration": {
+      "Signal1": {
+        "Signal1": 0,
+        "Signal3": 0,
+        "Signal4": 0,
+        "Signal6": 0,
+        "Signal7": 0,
+        "Signal9": 0
+      },
+      "Signal3": {
+        "Signal1": 0,
+        "Signal3": 0,
+        "Signal4": 0,
+        "Signal6": 0,
+        "Signal7": 0,
+        "Signal9": 0
+      },
+      "Signal4": {
+        "Signal1": 0,
+        "Signal3": 0,
+        "Signal4": 0,
+        "Signal6": 0,
+        "Signal7": 0,
+        "Signal9": 0
+      },
+      "Signal6": {
+        "Signal1": 0,
+        "Signal3": 0,
+        "Signal4": 0,
+        "Signal6": 0,
+        "Signal7": 0,
+        "Signal9": 0
+      },
+      "Signal7": {
+        "Signal1": 0,
+        "Signal3": 0,
+        "Signal4": 0,
+        "Signal6": 0,
+        "Signal7": 0,
+        "Signal9": 0
+      },
+      "Signal9": {
+        "Signal1": 0,
+        "Signal3": 0,
+        "Signal4": 0,
+        "Signal6": 0,
+        "Signal7": 0,
+        "Signal9": 0
+      }
+    },
+    "Audio.Intensity.Right.STD": {
+      "Signal1": {
+        "Signal1": 0,
+        "Signal3": 0,
+        "Signal4": 0,
+        "Signal6": 0,
+        "Signal7": 0,
+        "Signal9": 0
+      },
+      "Signal3": {
+        "Signal1": 0,
+        "Signal3": 0,
+        "Signal4": 0,
+        "Signal6": 0,
+        "Signal7": 0,
+        "Signal9": 0
+      },
+      "Signal4": {
+        "Signal1": 0,
+        "Signal3": 0,
+        "Signal4": 0,
+        "Signal6": 0,
+        "Signal7": 0,
+        "Signal9": 0
+      },
+      "Signal6": {
+        "Signal1": 0,
+        "Signal3": 0,
+        "Signal4": 0,
+        "Signal6": 0,
+        "Signal7": 0,
+        "Signal9": 0
+      },
+      "Signal7": {
+        "Signal1": 0,
+        "Signal3": 0,
+        "Signal4": 0,
+        "Signal6": 0,
+        "Signal7": 0,
+        "Signal9": 0
+      },
+      "Signal9": {
+        "Signal1": 0,
+        "Signal3": 0,
+        "Signal4": 0,
+        "Signal6": 0,
+        "Signal7": 0,
+        "Signal9": 0
+      }
+    },
     "Audio.Frequency": {
       "Signal1": {
         "Signal1": 0,
@@ -450,6 +300,56 @@
         "Signal9": 0
       }
     },
+    "Vibrotactile.Frequency": {
+      "Signal1": {
+        "Signal1": 0,
+        "Signal3": 4.545454545454545,
+        "Signal4": 0,
+        "Signal6": 4.545454545454545,
+        "Signal7": 0,
+        "Signal9": 4.545454545454545
+      },
+      "Signal3": {
+        "Signal1": 4.545454545454545,
+        "Signal3": 0,
+        "Signal4": 4.545454545454545,
+        "Signal6": 0,
+        "Signal7": 4.545454545454545,
+        "Signal9": 0
+      },
+      "Signal4": {
+        "Signal1": 0,
+        "Signal3": 4.545454545454545,
+        "Signal4": 0,
+        "Signal6": 4.545454545454545,
+        "Signal7": 0,
+        "Signal9": 4.545454545454545
+      },
+      "Signal6": {
+        "Signal1": 4.545454545454545,
+        "Signal3": 0,
+        "Signal4": 4.545454545454545,
+        "Signal6": 0,
+        "Signal7": 4.545454545454545,
+        "Signal9": 0
+      },
+      "Signal7": {
+        "Signal1": 0,
+        "Signal3": 4.545454545454545,
+        "Signal4": 0,
+        "Signal6": 4.545454545454545,
+        "Signal7": 0,
+        "Signal9": 4.545454545454545
+      },
+      "Signal9": {
+        "Signal1": 4.545454545454545,
+        "Signal3": 0,
+        "Signal4": 4.545454545454545,
+        "Signal6": 0,
+        "Signal7": 4.545454545454545,
+        "Signal9": 0
+      }
+    },
     "Vibrotactile.Amplitude": {
       "Signal1": {
         "Signal1": 0,
@@ -496,6 +396,106 @@
         "Signal3": 5.517241379310345,
         "Signal4": 2.7586206896551726,
         "Signal6": 2.7586206896551726,
+        "Signal7": 0,
+        "Signal9": 0
+      }
+    },
+    "Audio.Intensity.Left.STD": {
+      "Signal1": {
+        "Signal1": 0,
+        "Signal3": 0,
+        "Signal4": 0,
+        "Signal6": 0,
+        "Signal7": 0,
+        "Signal9": 0
+      },
+      "Signal3": {
+        "Signal1": 0,
+        "Signal3": 0,
+        "Signal4": 0,
+        "Signal6": 0,
+        "Signal7": 0,
+        "Signal9": 0
+      },
+      "Signal4": {
+        "Signal1": 0,
+        "Signal3": 0,
+        "Signal4": 0,
+        "Signal6": 0,
+        "Signal7": 0,
+        "Signal9": 0
+      },
+      "Signal6": {
+        "Signal1": 0,
+        "Signal3": 0,
+        "Signal4": 0,
+        "Signal6": 0,
+        "Signal7": 0,
+        "Signal9": 0
+      },
+      "Signal7": {
+        "Signal1": 0,
+        "Signal3": 0,
+        "Signal4": 0,
+        "Signal6": 0,
+        "Signal7": 0,
+        "Signal9": 0
+      },
+      "Signal9": {
+        "Signal1": 0,
+        "Signal3": 0,
+        "Signal4": 0,
+        "Signal6": 0,
+        "Signal7": 0,
+        "Signal9": 0
+      }
+    },
+    "Audio.Intensity.Left.AVG": {
+      "Signal1": {
+        "Signal1": 0,
+        "Signal3": 0,
+        "Signal4": 0,
+        "Signal6": 0,
+        "Signal7": 0,
+        "Signal9": 0
+      },
+      "Signal3": {
+        "Signal1": 0,
+        "Signal3": 0,
+        "Signal4": 0,
+        "Signal6": 0,
+        "Signal7": 0,
+        "Signal9": 0
+      },
+      "Signal4": {
+        "Signal1": 0,
+        "Signal3": 0,
+        "Signal4": 0,
+        "Signal6": 0,
+        "Signal7": 0,
+        "Signal9": 0
+      },
+      "Signal6": {
+        "Signal1": 0,
+        "Signal3": 0,
+        "Signal4": 0,
+        "Signal6": 0,
+        "Signal7": 0,
+        "Signal9": 0
+      },
+      "Signal7": {
+        "Signal1": 0,
+        "Signal3": 0,
+        "Signal4": 0,
+        "Signal6": 0,
+        "Signal7": 0,
+        "Signal9": 0
+      },
+      "Signal9": {
+        "Signal1": 0,
+        "Signal3": 0,
+        "Signal4": 0,
+        "Signal6": 0,
         "Signal7": 0,
         "Signal9": 0
       }
@@ -505,300 +505,50 @@
     "Vibrotactile.Duration": {
       "Signal1": {
         "Signal1": 0,
-        "Signal3": 3.1884057971014492,
+        "Signal3": 3.216374269005848,
         "Signal4": 0,
-        "Signal6": 3.1884057971014492,
+        "Signal6": 3.216374269005848,
         "Signal7": 0,
-        "Signal9": 3.1884057971014492
+        "Signal9": 3.216374269005848
       },
       "Signal3": {
-        "Signal1": 3.1884057971014492,
+        "Signal1": 3.216374269005848,
         "Signal3": 0,
-        "Signal4": 3.1884057971014492,
+        "Signal4": 3.216374269005848,
         "Signal6": 0,
-        "Signal7": 3.1884057971014492,
+        "Signal7": 3.216374269005848,
         "Signal9": 0
       },
       "Signal4": {
         "Signal1": 0,
-        "Signal3": 3.1884057971014492,
+        "Signal3": 3.216374269005848,
         "Signal4": 0,
-        "Signal6": 3.1884057971014492,
+        "Signal6": 3.216374269005848,
         "Signal7": 0,
-        "Signal9": 3.1884057971014492
+        "Signal9": 3.216374269005848
       },
       "Signal6": {
-        "Signal1": 3.1884057971014492,
+        "Signal1": 3.216374269005848,
         "Signal3": 0,
-        "Signal4": 3.1884057971014492,
+        "Signal4": 3.216374269005848,
         "Signal6": 0,
-        "Signal7": 3.1884057971014492,
+        "Signal7": 3.216374269005848,
         "Signal9": 0
       },
       "Signal7": {
         "Signal1": 0,
-        "Signal3": 3.1884057971014492,
+        "Signal3": 3.216374269005848,
         "Signal4": 0,
-        "Signal6": 3.1884057971014492,
+        "Signal6": 3.216374269005848,
         "Signal7": 0,
-        "Signal9": 3.1884057971014492
+        "Signal9": 3.216374269005848
       },
       "Signal9": {
-        "Signal1": 3.1884057971014492,
+        "Signal1": 3.216374269005848,
         "Signal3": 0,
-        "Signal4": 3.1884057971014492,
+        "Signal4": 3.216374269005848,
         "Signal6": 0,
-        "Signal7": 3.1884057971014492,
-        "Signal9": 0
-      }
-    },
-    "Audio.Intensity.Right.STD": {
-      "Signal1": {
-        "Signal1": 0,
-        "Signal3": 0,
-        "Signal4": 0.864864864864865,
-        "Signal6": 0.864864864864865,
-        "Signal7": 0.39024390243902424,
-        "Signal9": 0.39024390243902424
-      },
-      "Signal3": {
-        "Signal1": 0,
-        "Signal3": 0,
-        "Signal4": 0.864864864864865,
-        "Signal6": 0.864864864864865,
-        "Signal7": 0.39024390243902424,
-        "Signal9": 0.39024390243902424
-      },
-      "Signal4": {
-        "Signal1": 0.864864864864865,
-        "Signal3": 0.864864864864865,
-        "Signal4": 0,
-        "Signal6": 0,
-        "Signal7": 1.170731707317073,
-        "Signal9": 1.170731707317073
-      },
-      "Signal6": {
-        "Signal1": 0.864864864864865,
-        "Signal3": 0.864864864864865,
-        "Signal4": 0,
-        "Signal6": 0,
-        "Signal7": 1.170731707317073,
-        "Signal9": 1.170731707317073
-      },
-      "Signal7": {
-        "Signal1": 0.39024390243902424,
-        "Signal3": 0.39024390243902424,
-        "Signal4": 1.170731707317073,
-        "Signal6": 1.170731707317073,
-        "Signal7": 0,
-        "Signal9": 0
-      },
-      "Signal9": {
-        "Signal1": 0.39024390243902424,
-        "Signal3": 0.39024390243902424,
-        "Signal4": 1.170731707317073,
-        "Signal6": 1.170731707317073,
-        "Signal7": 0,
-        "Signal9": 0
-      }
-    },
-    "Audio.Intensity.Left.AVG": {
-      "Signal1": {
-        "Signal1": 0,
-        "Signal3": 0,
-        "Signal4": 0.6363636363636362,
-        "Signal6": 0.6363636363636362,
-        "Signal7": 1.0992756710694502,
-        "Signal9": 1.0992756710694502
-      },
-      "Signal3": {
-        "Signal1": 0,
-        "Signal3": 0,
-        "Signal4": 0.6363636363636362,
-        "Signal6": 0.6363636363636362,
-        "Signal7": 1.0992756710694502,
-        "Signal9": 1.0992756710694502
-      },
-      "Signal4": {
-        "Signal1": 0.6363636363636362,
-        "Signal3": 0.6363636363636362,
-        "Signal4": 0,
-        "Signal6": 0,
-        "Signal7": 0.5504899872177249,
-        "Signal9": 0.5504899872177249
-      },
-      "Signal6": {
-        "Signal1": 0.6363636363636362,
-        "Signal3": 0.6363636363636362,
-        "Signal4": 0,
-        "Signal6": 0,
-        "Signal7": 0.5504899872177249,
-        "Signal9": 0.5504899872177249
-      },
-      "Signal7": {
-        "Signal1": 1.0992756710694502,
-        "Signal3": 1.0992756710694502,
-        "Signal4": 0.5504899872177249,
-        "Signal6": 0.5504899872177249,
-        "Signal7": 0,
-        "Signal9": 0
-      },
-      "Signal9": {
-        "Signal1": 1.0992756710694502,
-        "Signal3": 1.0992756710694502,
-        "Signal4": 0.5504899872177249,
-        "Signal6": 0.5504899872177249,
-        "Signal7": 0,
-        "Signal9": 0
-      }
-    },
-    "Vibrotactile.Frequency": {
-      "Signal1": {
-        "Signal1": 0,
-        "Signal3": 4.545454545454545,
-        "Signal4": 0,
-        "Signal6": 4.545454545454545,
-        "Signal7": 0,
-        "Signal9": 4.545454545454545
-      },
-      "Signal3": {
-        "Signal1": 4.545454545454545,
-        "Signal3": 0,
-        "Signal4": 4.545454545454545,
-        "Signal6": 0,
-        "Signal7": 4.545454545454545,
-        "Signal9": 0
-      },
-      "Signal4": {
-        "Signal1": 0,
-        "Signal3": 4.545454545454545,
-        "Signal4": 0,
-        "Signal6": 4.545454545454545,
-        "Signal7": 0,
-        "Signal9": 4.545454545454545
-      },
-      "Signal6": {
-        "Signal1": 4.545454545454545,
-        "Signal3": 0,
-        "Signal4": 4.545454545454545,
-        "Signal6": 0,
-        "Signal7": 4.545454545454545,
-        "Signal9": 0
-      },
-      "Signal7": {
-        "Signal1": 0,
-        "Signal3": 4.545454545454545,
-        "Signal4": 0,
-        "Signal6": 4.545454545454545,
-        "Signal7": 0,
-        "Signal9": 4.545454545454545
-      },
-      "Signal9": {
-        "Signal1": 4.545454545454545,
-        "Signal3": 0,
-        "Signal4": 4.545454545454545,
-        "Signal6": 0,
-        "Signal7": 4.545454545454545,
-        "Signal9": 0
-      }
-    },
-    "Audio.Intensity.Left.STD": {
-      "Signal1": {
-        "Signal1": 0,
-        "Signal3": 0,
-        "Signal4": 0.8421052631578949,
-        "Signal6": 0.8421052631578949,
-        "Signal7": 1.272727272727273,
-        "Signal9": 1.272727272727273
-      },
-      "Signal3": {
-        "Signal1": 0,
-        "Signal3": 0,
-        "Signal4": 0.8421052631578949,
-        "Signal6": 0.8421052631578949,
-        "Signal7": 1.272727272727273,
-        "Signal9": 1.272727272727273
-      },
-      "Signal4": {
-        "Signal1": 0.8421052631578949,
-        "Signal3": 0.8421052631578949,
-        "Signal4": 0,
-        "Signal6": 0,
-        "Signal7": 0.5454545454545454,
-        "Signal9": 0.5454545454545454
-      },
-      "Signal6": {
-        "Signal1": 0.8421052631578949,
-        "Signal3": 0.8421052631578949,
-        "Signal4": 0,
-        "Signal6": 0,
-        "Signal7": 0.5454545454545454,
-        "Signal9": 0.5454545454545454
-      },
-      "Signal7": {
-        "Signal1": 1.272727272727273,
-        "Signal3": 1.272727272727273,
-        "Signal4": 0.5454545454545454,
-        "Signal6": 0.5454545454545454,
-        "Signal7": 0,
-        "Signal9": 0
-      },
-      "Signal9": {
-        "Signal1": 1.272727272727273,
-        "Signal3": 1.272727272727273,
-        "Signal4": 0.5454545454545454,
-        "Signal6": 0.5454545454545454,
-        "Signal7": 0,
-        "Signal9": 0
-      }
-    },
-    "Audio.Duration": {
-      "Signal1": {
-        "Signal1": 0,
-        "Signal3": 0,
-        "Signal4": 0,
-        "Signal6": 0,
-        "Signal7": 0,
-        "Signal9": 0
-      },
-      "Signal3": {
-        "Signal1": 0,
-        "Signal3": 0,
-        "Signal4": 0,
-        "Signal6": 0,
-        "Signal7": 0,
-        "Signal9": 0
-      },
-      "Signal4": {
-        "Signal1": 0,
-        "Signal3": 0,
-        "Signal4": 0,
-        "Signal6": 0,
-        "Signal7": 0,
-        "Signal9": 0
-      },
-      "Signal6": {
-        "Signal1": 0,
-        "Signal3": 0,
-        "Signal4": 0,
-        "Signal6": 0,
-        "Signal7": 0,
-        "Signal9": 0
-      },
-      "Signal7": {
-        "Signal1": 0,
-        "Signal3": 0,
-        "Signal4": 0,
-        "Signal6": 0,
-        "Signal7": 0,
-        "Signal9": 0
-      },
-      "Signal9": {
-        "Signal1": 0,
-        "Signal3": 0,
-        "Signal4": 0,
-        "Signal6": 0,
-        "Signal7": 0,
+        "Signal7": 3.216374269005848,
         "Signal9": 0
       }
     },
@@ -902,6 +652,106 @@
         "Signal9": 0
       }
     },
+    "Audio.Duration": {
+      "Signal1": {
+        "Signal1": 0,
+        "Signal3": 0,
+        "Signal4": 0,
+        "Signal6": 0,
+        "Signal7": 0,
+        "Signal9": 0
+      },
+      "Signal3": {
+        "Signal1": 0,
+        "Signal3": 0,
+        "Signal4": 0,
+        "Signal6": 0,
+        "Signal7": 0,
+        "Signal9": 0
+      },
+      "Signal4": {
+        "Signal1": 0,
+        "Signal3": 0,
+        "Signal4": 0,
+        "Signal6": 0,
+        "Signal7": 0,
+        "Signal9": 0
+      },
+      "Signal6": {
+        "Signal1": 0,
+        "Signal3": 0,
+        "Signal4": 0,
+        "Signal6": 0,
+        "Signal7": 0,
+        "Signal9": 0
+      },
+      "Signal7": {
+        "Signal1": 0,
+        "Signal3": 0,
+        "Signal4": 0,
+        "Signal6": 0,
+        "Signal7": 0,
+        "Signal9": 0
+      },
+      "Signal9": {
+        "Signal1": 0,
+        "Signal3": 0,
+        "Signal4": 0,
+        "Signal6": 0,
+        "Signal7": 0,
+        "Signal9": 0
+      }
+    },
+    "Audio.Intensity.Right.STD": {
+      "Signal1": {
+        "Signal1": 0,
+        "Signal3": 0,
+        "Signal4": 0.864864864864865,
+        "Signal6": 0.864864864864865,
+        "Signal7": 0.39024390243902424,
+        "Signal9": 0.39024390243902424
+      },
+      "Signal3": {
+        "Signal1": 0,
+        "Signal3": 0,
+        "Signal4": 0.864864864864865,
+        "Signal6": 0.864864864864865,
+        "Signal7": 0.39024390243902424,
+        "Signal9": 0.39024390243902424
+      },
+      "Signal4": {
+        "Signal1": 0.864864864864865,
+        "Signal3": 0.864864864864865,
+        "Signal4": 0,
+        "Signal6": 0,
+        "Signal7": 1.170731707317073,
+        "Signal9": 1.170731707317073
+      },
+      "Signal6": {
+        "Signal1": 0.864864864864865,
+        "Signal3": 0.864864864864865,
+        "Signal4": 0,
+        "Signal6": 0,
+        "Signal7": 1.170731707317073,
+        "Signal9": 1.170731707317073
+      },
+      "Signal7": {
+        "Signal1": 0.39024390243902424,
+        "Signal3": 0.39024390243902424,
+        "Signal4": 1.170731707317073,
+        "Signal6": 1.170731707317073,
+        "Signal7": 0,
+        "Signal9": 0
+      },
+      "Signal9": {
+        "Signal1": 0.39024390243902424,
+        "Signal3": 0.39024390243902424,
+        "Signal4": 1.170731707317073,
+        "Signal6": 1.170731707317073,
+        "Signal7": 0,
+        "Signal9": 0
+      }
+    },
     "Audio.Frequency": {
       "Signal1": {
         "Signal1": 0,
@@ -952,6 +802,56 @@
         "Signal9": 0
       }
     },
+    "Vibrotactile.Frequency": {
+      "Signal1": {
+        "Signal1": 0,
+        "Signal3": 4.545454545454545,
+        "Signal4": 0,
+        "Signal6": 4.545454545454545,
+        "Signal7": 0,
+        "Signal9": 4.545454545454545
+      },
+      "Signal3": {
+        "Signal1": 4.545454545454545,
+        "Signal3": 0,
+        "Signal4": 4.545454545454545,
+        "Signal6": 0,
+        "Signal7": 4.545454545454545,
+        "Signal9": 0
+      },
+      "Signal4": {
+        "Signal1": 0,
+        "Signal3": 4.545454545454545,
+        "Signal4": 0,
+        "Signal6": 4.545454545454545,
+        "Signal7": 0,
+        "Signal9": 4.545454545454545
+      },
+      "Signal6": {
+        "Signal1": 4.545454545454545,
+        "Signal3": 0,
+        "Signal4": 4.545454545454545,
+        "Signal6": 0,
+        "Signal7": 4.545454545454545,
+        "Signal9": 0
+      },
+      "Signal7": {
+        "Signal1": 0,
+        "Signal3": 4.545454545454545,
+        "Signal4": 0,
+        "Signal6": 4.545454545454545,
+        "Signal7": 0,
+        "Signal9": 4.545454545454545
+      },
+      "Signal9": {
+        "Signal1": 4.545454545454545,
+        "Signal3": 0,
+        "Signal4": 4.545454545454545,
+        "Signal6": 0,
+        "Signal7": 4.545454545454545,
+        "Signal9": 0
+      }
+    },
     "Vibrotactile.Amplitude": {
       "Signal1": {
         "Signal1": 0,
@@ -998,6 +898,106 @@
         "Signal3": 5.517241379310345,
         "Signal4": 2.7586206896551726,
         "Signal6": 2.7586206896551726,
+        "Signal7": 0,
+        "Signal9": 0
+      }
+    },
+    "Audio.Intensity.Left.STD": {
+      "Signal1": {
+        "Signal1": 0,
+        "Signal3": 0,
+        "Signal4": 0.8421052631578949,
+        "Signal6": 0.8421052631578949,
+        "Signal7": 1.272727272727273,
+        "Signal9": 1.272727272727273
+      },
+      "Signal3": {
+        "Signal1": 0,
+        "Signal3": 0,
+        "Signal4": 0.8421052631578949,
+        "Signal6": 0.8421052631578949,
+        "Signal7": 1.272727272727273,
+        "Signal9": 1.272727272727273
+      },
+      "Signal4": {
+        "Signal1": 0.8421052631578949,
+        "Signal3": 0.8421052631578949,
+        "Signal4": 0,
+        "Signal6": 0,
+        "Signal7": 0.5454545454545454,
+        "Signal9": 0.5454545454545454
+      },
+      "Signal6": {
+        "Signal1": 0.8421052631578949,
+        "Signal3": 0.8421052631578949,
+        "Signal4": 0,
+        "Signal6": 0,
+        "Signal7": 0.5454545454545454,
+        "Signal9": 0.5454545454545454
+      },
+      "Signal7": {
+        "Signal1": 1.272727272727273,
+        "Signal3": 1.272727272727273,
+        "Signal4": 0.5454545454545454,
+        "Signal6": 0.5454545454545454,
+        "Signal7": 0,
+        "Signal9": 0
+      },
+      "Signal9": {
+        "Signal1": 1.272727272727273,
+        "Signal3": 1.272727272727273,
+        "Signal4": 0.5454545454545454,
+        "Signal6": 0.5454545454545454,
+        "Signal7": 0,
+        "Signal9": 0
+      }
+    },
+    "Audio.Intensity.Left.AVG": {
+      "Signal1": {
+        "Signal1": 0,
+        "Signal3": 0,
+        "Signal4": 0.6363636363636362,
+        "Signal6": 0.6363636363636362,
+        "Signal7": 1.0992756710694502,
+        "Signal9": 1.0992756710694502
+      },
+      "Signal3": {
+        "Signal1": 0,
+        "Signal3": 0,
+        "Signal4": 0.6363636363636362,
+        "Signal6": 0.6363636363636362,
+        "Signal7": 1.0992756710694502,
+        "Signal9": 1.0992756710694502
+      },
+      "Signal4": {
+        "Signal1": 0.6363636363636362,
+        "Signal3": 0.6363636363636362,
+        "Signal4": 0,
+        "Signal6": 0,
+        "Signal7": 0.5504899872177249,
+        "Signal9": 0.5504899872177249
+      },
+      "Signal6": {
+        "Signal1": 0.6363636363636362,
+        "Signal3": 0.6363636363636362,
+        "Signal4": 0,
+        "Signal6": 0,
+        "Signal7": 0.5504899872177249,
+        "Signal9": 0.5504899872177249
+      },
+      "Signal7": {
+        "Signal1": 1.0992756710694502,
+        "Signal3": 1.0992756710694502,
+        "Signal4": 0.5504899872177249,
+        "Signal6": 0.5504899872177249,
+        "Signal7": 0,
+        "Signal9": 0
+      },
+      "Signal9": {
+        "Signal1": 1.0992756710694502,
+        "Signal3": 1.0992756710694502,
+        "Signal4": 0.5504899872177249,
+        "Signal6": 0.5504899872177249,
         "Signal7": 0,
         "Signal9": 0
       }
@@ -1007,300 +1007,50 @@
     "Vibrotactile.Duration": {
       "Signal1": {
         "Signal1": 0,
-        "Signal3": 3.1884057971014492,
+        "Signal3": 3.216374269005848,
         "Signal4": 0,
-        "Signal6": 3.1884057971014492,
+        "Signal6": 3.216374269005848,
         "Signal7": 0,
-        "Signal9": 3.1884057971014492
+        "Signal9": 3.216374269005848
       },
       "Signal3": {
-        "Signal1": 3.1884057971014492,
+        "Signal1": 3.216374269005848,
         "Signal3": 0,
-        "Signal4": 3.1884057971014492,
+        "Signal4": 3.216374269005848,
         "Signal6": 0,
-        "Signal7": 3.1884057971014492,
+        "Signal7": 3.216374269005848,
         "Signal9": 0
       },
       "Signal4": {
         "Signal1": 0,
-        "Signal3": 3.1884057971014492,
+        "Signal3": 3.216374269005848,
         "Signal4": 0,
-        "Signal6": 3.1884057971014492,
+        "Signal6": 3.216374269005848,
         "Signal7": 0,
-        "Signal9": 3.1884057971014492
+        "Signal9": 3.216374269005848
       },
       "Signal6": {
-        "Signal1": 3.1884057971014492,
+        "Signal1": 3.216374269005848,
         "Signal3": 0,
-        "Signal4": 3.1884057971014492,
+        "Signal4": 3.216374269005848,
         "Signal6": 0,
-        "Signal7": 3.1884057971014492,
+        "Signal7": 3.216374269005848,
         "Signal9": 0
       },
       "Signal7": {
         "Signal1": 0,
-        "Signal3": 3.1884057971014492,
+        "Signal3": 3.216374269005848,
         "Signal4": 0,
-        "Signal6": 3.1884057971014492,
+        "Signal6": 3.216374269005848,
         "Signal7": 0,
-        "Signal9": 3.1884057971014492
+        "Signal9": 3.216374269005848
       },
       "Signal9": {
-        "Signal1": 3.1884057971014492,
+        "Signal1": 3.216374269005848,
         "Signal3": 0,
-        "Signal4": 3.1884057971014492,
+        "Signal4": 3.216374269005848,
         "Signal6": 0,
-        "Signal7": 3.1884057971014492,
-        "Signal9": 0
-      }
-    },
-    "Audio.Intensity.Right.STD": {
-      "Signal1": {
-        "Signal1": 0,
-        "Signal3": 0,
-        "Signal4": 0,
-        "Signal6": 0,
-        "Signal7": 0,
-        "Signal9": 0
-      },
-      "Signal3": {
-        "Signal1": 0,
-        "Signal3": 0,
-        "Signal4": 0,
-        "Signal6": 0,
-        "Signal7": 0,
-        "Signal9": 0
-      },
-      "Signal4": {
-        "Signal1": 0,
-        "Signal3": 0,
-        "Signal4": 0,
-        "Signal6": 0,
-        "Signal7": 0,
-        "Signal9": 0
-      },
-      "Signal6": {
-        "Signal1": 0,
-        "Signal3": 0,
-        "Signal4": 0,
-        "Signal6": 0,
-        "Signal7": 0,
-        "Signal9": 0
-      },
-      "Signal7": {
-        "Signal1": 0,
-        "Signal3": 0,
-        "Signal4": 0,
-        "Signal6": 0,
-        "Signal7": 0,
-        "Signal9": 0
-      },
-      "Signal9": {
-        "Signal1": 0,
-        "Signal3": 0,
-        "Signal4": 0,
-        "Signal6": 0,
-        "Signal7": 0,
-        "Signal9": 0
-      }
-    },
-    "Audio.Intensity.Left.AVG": {
-      "Signal1": {
-        "Signal1": 0,
-        "Signal3": 0,
-        "Signal4": 0,
-        "Signal6": 0,
-        "Signal7": 0,
-        "Signal9": 0
-      },
-      "Signal3": {
-        "Signal1": 0,
-        "Signal3": 0,
-        "Signal4": 0,
-        "Signal6": 0,
-        "Signal7": 0,
-        "Signal9": 0
-      },
-      "Signal4": {
-        "Signal1": 0,
-        "Signal3": 0,
-        "Signal4": 0,
-        "Signal6": 0,
-        "Signal7": 0,
-        "Signal9": 0
-      },
-      "Signal6": {
-        "Signal1": 0,
-        "Signal3": 0,
-        "Signal4": 0,
-        "Signal6": 0,
-        "Signal7": 0,
-        "Signal9": 0
-      },
-      "Signal7": {
-        "Signal1": 0,
-        "Signal3": 0,
-        "Signal4": 0,
-        "Signal6": 0,
-        "Signal7": 0,
-        "Signal9": 0
-      },
-      "Signal9": {
-        "Signal1": 0,
-        "Signal3": 0,
-        "Signal4": 0,
-        "Signal6": 0,
-        "Signal7": 0,
-        "Signal9": 0
-      }
-    },
-    "Vibrotactile.Frequency": {
-      "Signal1": {
-        "Signal1": 0,
-        "Signal3": 4.545454545454545,
-        "Signal4": 0,
-        "Signal6": 4.545454545454545,
-        "Signal7": 0,
-        "Signal9": 4.545454545454545
-      },
-      "Signal3": {
-        "Signal1": 4.545454545454545,
-        "Signal3": 0,
-        "Signal4": 4.545454545454545,
-        "Signal6": 0,
-        "Signal7": 4.545454545454545,
-        "Signal9": 0
-      },
-      "Signal4": {
-        "Signal1": 0,
-        "Signal3": 4.545454545454545,
-        "Signal4": 0,
-        "Signal6": 4.545454545454545,
-        "Signal7": 0,
-        "Signal9": 4.545454545454545
-      },
-      "Signal6": {
-        "Signal1": 4.545454545454545,
-        "Signal3": 0,
-        "Signal4": 4.545454545454545,
-        "Signal6": 0,
-        "Signal7": 4.545454545454545,
-        "Signal9": 0
-      },
-      "Signal7": {
-        "Signal1": 0,
-        "Signal3": 4.545454545454545,
-        "Signal4": 0,
-        "Signal6": 4.545454545454545,
-        "Signal7": 0,
-        "Signal9": 4.545454545454545
-      },
-      "Signal9": {
-        "Signal1": 4.545454545454545,
-        "Signal3": 0,
-        "Signal4": 4.545454545454545,
-        "Signal6": 0,
-        "Signal7": 4.545454545454545,
-        "Signal9": 0
-      }
-    },
-    "Audio.Intensity.Left.STD": {
-      "Signal1": {
-        "Signal1": 0,
-        "Signal3": 0,
-        "Signal4": 0,
-        "Signal6": 0,
-        "Signal7": 0,
-        "Signal9": 0
-      },
-      "Signal3": {
-        "Signal1": 0,
-        "Signal3": 0,
-        "Signal4": 0,
-        "Signal6": 0,
-        "Signal7": 0,
-        "Signal9": 0
-      },
-      "Signal4": {
-        "Signal1": 0,
-        "Signal3": 0,
-        "Signal4": 0,
-        "Signal6": 0,
-        "Signal7": 0,
-        "Signal9": 0
-      },
-      "Signal6": {
-        "Signal1": 0,
-        "Signal3": 0,
-        "Signal4": 0,
-        "Signal6": 0,
-        "Signal7": 0,
-        "Signal9": 0
-      },
-      "Signal7": {
-        "Signal1": 0,
-        "Signal3": 0,
-        "Signal4": 0,
-        "Signal6": 0,
-        "Signal7": 0,
-        "Signal9": 0
-      },
-      "Signal9": {
-        "Signal1": 0,
-        "Signal3": 0,
-        "Signal4": 0,
-        "Signal6": 0,
-        "Signal7": 0,
-        "Signal9": 0
-      }
-    },
-    "Audio.Duration": {
-      "Signal1": {
-        "Signal1": 0,
-        "Signal3": 4.160401002506266,
-        "Signal4": 0,
-        "Signal6": 4.160401002506266,
-        "Signal7": 0,
-        "Signal9": 4.160401002506266
-      },
-      "Signal3": {
-        "Signal1": 4.160401002506266,
-        "Signal3": 0,
-        "Signal4": 4.160401002506266,
-        "Signal6": 0,
-        "Signal7": 4.160401002506266,
-        "Signal9": 0
-      },
-      "Signal4": {
-        "Signal1": 0,
-        "Signal3": 4.160401002506266,
-        "Signal4": 0,
-        "Signal6": 4.160401002506266,
-        "Signal7": 0,
-        "Signal9": 4.160401002506266
-      },
-      "Signal6": {
-        "Signal1": 4.160401002506266,
-        "Signal3": 0,
-        "Signal4": 4.160401002506266,
-        "Signal6": 0,
-        "Signal7": 4.160401002506266,
-        "Signal9": 0
-      },
-      "Signal7": {
-        "Signal1": 0,
-        "Signal3": 4.160401002506266,
-        "Signal4": 0,
-        "Signal6": 4.160401002506266,
-        "Signal7": 0,
-        "Signal9": 4.160401002506266
-      },
-      "Signal9": {
-        "Signal1": 4.160401002506266,
-        "Signal3": 0,
-        "Signal4": 4.160401002506266,
-        "Signal6": 0,
-        "Signal7": 4.160401002506266,
+        "Signal7": 3.216374269005848,
         "Signal9": 0
       }
     },
@@ -1404,6 +1154,106 @@
         "Signal9": 0
       }
     },
+    "Audio.Duration": {
+      "Signal1": {
+        "Signal1": 0,
+        "Signal3": 4.160401002506266,
+        "Signal4": 0,
+        "Signal6": 4.160401002506266,
+        "Signal7": 0,
+        "Signal9": 4.160401002506266
+      },
+      "Signal3": {
+        "Signal1": 4.160401002506266,
+        "Signal3": 0,
+        "Signal4": 4.160401002506266,
+        "Signal6": 0,
+        "Signal7": 4.160401002506266,
+        "Signal9": 0
+      },
+      "Signal4": {
+        "Signal1": 0,
+        "Signal3": 4.160401002506266,
+        "Signal4": 0,
+        "Signal6": 4.160401002506266,
+        "Signal7": 0,
+        "Signal9": 4.160401002506266
+      },
+      "Signal6": {
+        "Signal1": 4.160401002506266,
+        "Signal3": 0,
+        "Signal4": 4.160401002506266,
+        "Signal6": 0,
+        "Signal7": 4.160401002506266,
+        "Signal9": 0
+      },
+      "Signal7": {
+        "Signal1": 0,
+        "Signal3": 4.160401002506266,
+        "Signal4": 0,
+        "Signal6": 4.160401002506266,
+        "Signal7": 0,
+        "Signal9": 4.160401002506266
+      },
+      "Signal9": {
+        "Signal1": 4.160401002506266,
+        "Signal3": 0,
+        "Signal4": 4.160401002506266,
+        "Signal6": 0,
+        "Signal7": 4.160401002506266,
+        "Signal9": 0
+      }
+    },
+    "Audio.Intensity.Right.STD": {
+      "Signal1": {
+        "Signal1": 0,
+        "Signal3": 0,
+        "Signal4": 0,
+        "Signal6": 0,
+        "Signal7": 0,
+        "Signal9": 0
+      },
+      "Signal3": {
+        "Signal1": 0,
+        "Signal3": 0,
+        "Signal4": 0,
+        "Signal6": 0,
+        "Signal7": 0,
+        "Signal9": 0
+      },
+      "Signal4": {
+        "Signal1": 0,
+        "Signal3": 0,
+        "Signal4": 0,
+        "Signal6": 0,
+        "Signal7": 0,
+        "Signal9": 0
+      },
+      "Signal6": {
+        "Signal1": 0,
+        "Signal3": 0,
+        "Signal4": 0,
+        "Signal6": 0,
+        "Signal7": 0,
+        "Signal9": 0
+      },
+      "Signal7": {
+        "Signal1": 0,
+        "Signal3": 0,
+        "Signal4": 0,
+        "Signal6": 0,
+        "Signal7": 0,
+        "Signal9": 0
+      },
+      "Signal9": {
+        "Signal1": 0,
+        "Signal3": 0,
+        "Signal4": 0,
+        "Signal6": 0,
+        "Signal7": 0,
+        "Signal9": 0
+      }
+    },
     "Audio.Frequency": {
       "Signal1": {
         "Signal1": 0,
@@ -1451,208 +1301,6 @@
         "Signal4": 10.694444444444445,
         "Signal6": 0,
         "Signal7": 10.694444444444445,
-        "Signal9": 0
-      }
-    },
-    "Vibrotactile.Amplitude": {
-      "Signal1": {
-        "Signal1": 0,
-        "Signal3": 0,
-        "Signal4": 4.597701149425287,
-        "Signal6": 4.597701149425287,
-        "Signal7": 5.517241379310345,
-        "Signal9": 5.517241379310345
-      },
-      "Signal3": {
-        "Signal1": 0,
-        "Signal3": 0,
-        "Signal4": 4.597701149425287,
-        "Signal6": 4.597701149425287,
-        "Signal7": 5.517241379310345,
-        "Signal9": 5.517241379310345
-      },
-      "Signal4": {
-        "Signal1": 4.597701149425287,
-        "Signal3": 4.597701149425287,
-        "Signal4": 0,
-        "Signal6": 0,
-        "Signal7": 2.7586206896551726,
-        "Signal9": 2.7586206896551726
-      },
-      "Signal6": {
-        "Signal1": 4.597701149425287,
-        "Signal3": 4.597701149425287,
-        "Signal4": 0,
-        "Signal6": 0,
-        "Signal7": 2.7586206896551726,
-        "Signal9": 2.7586206896551726
-      },
-      "Signal7": {
-        "Signal1": 5.517241379310345,
-        "Signal3": 5.517241379310345,
-        "Signal4": 2.7586206896551726,
-        "Signal6": 2.7586206896551726,
-        "Signal7": 0,
-        "Signal9": 0
-      },
-      "Signal9": {
-        "Signal1": 5.517241379310345,
-        "Signal3": 5.517241379310345,
-        "Signal4": 2.7586206896551726,
-        "Signal6": 2.7586206896551726,
-        "Signal7": 0,
-        "Signal9": 0
-      }
-    }
-  },
-  "C4": {
-    "Vibrotactile.Duration": {
-      "Signal1": {
-        "Signal1": 0,
-        "Signal3": 3.1884057971014492,
-        "Signal4": 0,
-        "Signal6": 3.1884057971014492,
-        "Signal7": 0,
-        "Signal9": 3.1884057971014492
-      },
-      "Signal3": {
-        "Signal1": 3.1884057971014492,
-        "Signal3": 0,
-        "Signal4": 3.1884057971014492,
-        "Signal6": 0,
-        "Signal7": 3.1884057971014492,
-        "Signal9": 0
-      },
-      "Signal4": {
-        "Signal1": 0,
-        "Signal3": 3.1884057971014492,
-        "Signal4": 0,
-        "Signal6": 3.1884057971014492,
-        "Signal7": 0,
-        "Signal9": 3.1884057971014492
-      },
-      "Signal6": {
-        "Signal1": 3.1884057971014492,
-        "Signal3": 0,
-        "Signal4": 3.1884057971014492,
-        "Signal6": 0,
-        "Signal7": 3.1884057971014492,
-        "Signal9": 0
-      },
-      "Signal7": {
-        "Signal1": 0,
-        "Signal3": 3.1884057971014492,
-        "Signal4": 0,
-        "Signal6": 3.1884057971014492,
-        "Signal7": 0,
-        "Signal9": 3.1884057971014492
-      },
-      "Signal9": {
-        "Signal1": 3.1884057971014492,
-        "Signal3": 0,
-        "Signal4": 3.1884057971014492,
-        "Signal6": 0,
-        "Signal7": 3.1884057971014492,
-        "Signal9": 0
-      }
-    },
-    "Audio.Intensity.Right.STD": {
-      "Signal1": {
-        "Signal1": 0,
-        "Signal3": 1.2592592592592595,
-        "Signal4": 1.4074074074074077,
-        "Signal6": 1.851851851851852,
-        "Signal7": 0,
-        "Signal9": 0.9629629629629634
-      },
-      "Signal3": {
-        "Signal1": 1.2592592592592595,
-        "Signal3": 0,
-        "Signal4": 0.21621621621621642,
-        "Signal6": 0.864864864864865,
-        "Signal7": 1.2592592592592595,
-        "Signal9": 0.39024390243902424
-      },
-      "Signal4": {
-        "Signal1": 1.4074074074074077,
-        "Signal3": 0.21621621621621642,
-        "Signal4": 0,
-        "Signal6": 0.6857142857142857,
-        "Signal7": 1.4074074074074077,
-        "Signal9": 0.5853658536585366
-      },
-      "Signal6": {
-        "Signal1": 1.851851851851852,
-        "Signal3": 0.864864864864865,
-        "Signal4": 0.6857142857142857,
-        "Signal6": 0,
-        "Signal7": 1.851851851851852,
-        "Signal9": 1.170731707317073
-      },
-      "Signal7": {
-        "Signal1": 0,
-        "Signal3": 1.2592592592592595,
-        "Signal4": 1.4074074074074077,
-        "Signal6": 1.851851851851852,
-        "Signal7": 0,
-        "Signal9": 0.9629629629629634
-      },
-      "Signal9": {
-        "Signal1": 0.9629629629629634,
-        "Signal3": 0.39024390243902424,
-        "Signal4": 0.5853658536585366,
-        "Signal6": 1.170731707317073,
-        "Signal7": 0.9629629629629634,
-        "Signal9": 0
-      }
-    },
-    "Audio.Intensity.Left.AVG": {
-      "Signal1": {
-        "Signal1": 0,
-        "Signal3": 0.8002350176263219,
-        "Signal4": 0.6883551231377318,
-        "Signal6": 1.3092885375494068,
-        "Signal7": 1.1427072402938088,
-        "Signal9": 1.67959096719216
-      },
-      "Signal3": {
-        "Signal1": 0.8002350176263219,
-        "Signal3": 0,
-        "Signal4": 0.13513513513513498,
-        "Signal6": 0.6363636363636362,
-        "Signal7": 0.4281217208814269,
-        "Signal9": 1.0992756710694502
-      },
-      "Signal4": {
-        "Signal1": 0.6883551231377318,
-        "Signal3": 0.13513513513513498,
-        "Signal4": 0,
-        "Signal6": 0.7499999999999997,
-        "Signal7": 0.5487932843651624,
-        "Signal9": 1.1972731146144011
-      },
-      "Signal6": {
-        "Signal1": 1.3092885375494068,
-        "Signal3": 0.6363636363636362,
-        "Signal4": 0.7499999999999997,
-        "Signal6": 0,
-        "Signal7": 0.23320158102766794,
-        "Signal9": 0.5504899872177249
-      },
-      "Signal7": {
-        "Signal1": 1.1427072402938088,
-        "Signal3": 0.4281217208814269,
-        "Signal4": 0.5487932843651624,
-        "Signal6": 0.23320158102766794,
-        "Signal7": 0,
-        "Signal9": 0.7515977844056243
-      },
-      "Signal9": {
-        "Signal1": 1.67959096719216,
-        "Signal3": 1.0992756710694502,
-        "Signal4": 1.1972731146144011,
-        "Signal6": 0.5504899872177249,
-        "Signal7": 0.7515977844056243,
         "Signal9": 0
       }
     },
@@ -1706,103 +1354,205 @@
         "Signal9": 0
       }
     },
-    "Audio.Intensity.Left.STD": {
+    "Vibrotactile.Amplitude": {
       "Signal1": {
         "Signal1": 0,
-        "Signal3": 2.181818181818182,
-        "Signal4": 0.6666666666666665,
-        "Signal6": 1.696969696969697,
-        "Signal7": 1.4545454545454548,
-        "Signal9": 1.3333333333333335
+        "Signal3": 0,
+        "Signal4": 4.597701149425287,
+        "Signal6": 4.597701149425287,
+        "Signal7": 5.517241379310345,
+        "Signal9": 5.517241379310345
       },
       "Signal3": {
-        "Signal1": 2.181818181818182,
+        "Signal1": 0,
         "Signal3": 0,
-        "Signal4": 1.8181818181818183,
-        "Signal6": 0.8421052631578949,
-        "Signal7": 1.1428571428571428,
-        "Signal9": 1.272727272727273
+        "Signal4": 4.597701149425287,
+        "Signal6": 4.597701149425287,
+        "Signal7": 5.517241379310345,
+        "Signal9": 5.517241379310345
       },
       "Signal4": {
-        "Signal1": 0.6666666666666665,
-        "Signal3": 1.8181818181818183,
+        "Signal1": 4.597701149425287,
+        "Signal3": 4.597701149425287,
         "Signal4": 0,
-        "Signal6": 1.2363636363636366,
-        "Signal7": 0.9454545454545458,
-        "Signal9": 0.8000000000000003
+        "Signal6": 0,
+        "Signal7": 2.7586206896551726,
+        "Signal9": 2.7586206896551726
       },
       "Signal6": {
-        "Signal1": 1.696969696969697,
-        "Signal3": 0.8421052631578949,
-        "Signal4": 1.2363636363636366,
+        "Signal1": 4.597701149425287,
+        "Signal3": 4.597701149425287,
+        "Signal4": 0,
         "Signal6": 0,
-        "Signal7": 0.38095238095238076,
-        "Signal9": 0.5454545454545454
+        "Signal7": 2.7586206896551726,
+        "Signal9": 2.7586206896551726
       },
       "Signal7": {
-        "Signal1": 1.4545454545454548,
-        "Signal3": 1.1428571428571428,
-        "Signal4": 0.9454545454545458,
-        "Signal6": 0.38095238095238076,
+        "Signal1": 5.517241379310345,
+        "Signal3": 5.517241379310345,
+        "Signal4": 2.7586206896551726,
+        "Signal6": 2.7586206896551726,
         "Signal7": 0,
-        "Signal9": 0.181818181818182
+        "Signal9": 0
       },
       "Signal9": {
-        "Signal1": 1.3333333333333335,
-        "Signal3": 1.272727272727273,
-        "Signal4": 0.8000000000000003,
-        "Signal6": 0.5454545454545454,
-        "Signal7": 0.181818181818182,
+        "Signal1": 5.517241379310345,
+        "Signal3": 5.517241379310345,
+        "Signal4": 2.7586206896551726,
+        "Signal6": 2.7586206896551726,
+        "Signal7": 0,
         "Signal9": 0
       }
     },
-    "Audio.Duration": {
+    "Audio.Intensity.Left.STD": {
       "Signal1": {
         "Signal1": 0,
-        "Signal3": 4.160401002506266,
+        "Signal3": 0,
         "Signal4": 0,
-        "Signal6": 4.160401002506266,
+        "Signal6": 0,
         "Signal7": 0,
-        "Signal9": 4.160401002506266
+        "Signal9": 0
       },
       "Signal3": {
-        "Signal1": 4.160401002506266,
+        "Signal1": 0,
         "Signal3": 0,
-        "Signal4": 4.160401002506266,
+        "Signal4": 0,
         "Signal6": 0,
-        "Signal7": 4.160401002506266,
+        "Signal7": 0,
         "Signal9": 0
       },
       "Signal4": {
         "Signal1": 0,
-        "Signal3": 4.160401002506266,
+        "Signal3": 0,
         "Signal4": 0,
-        "Signal6": 4.160401002506266,
+        "Signal6": 0,
         "Signal7": 0,
-        "Signal9": 4.160401002506266
+        "Signal9": 0
       },
       "Signal6": {
-        "Signal1": 4.160401002506266,
+        "Signal1": 0,
         "Signal3": 0,
-        "Signal4": 4.160401002506266,
+        "Signal4": 0,
         "Signal6": 0,
-        "Signal7": 4.160401002506266,
+        "Signal7": 0,
         "Signal9": 0
       },
       "Signal7": {
         "Signal1": 0,
-        "Signal3": 4.160401002506266,
+        "Signal3": 0,
         "Signal4": 0,
-        "Signal6": 4.160401002506266,
+        "Signal6": 0,
         "Signal7": 0,
-        "Signal9": 4.160401002506266
+        "Signal9": 0
       },
       "Signal9": {
-        "Signal1": 4.160401002506266,
+        "Signal1": 0,
         "Signal3": 0,
-        "Signal4": 4.160401002506266,
+        "Signal4": 0,
         "Signal6": 0,
-        "Signal7": 4.160401002506266,
+        "Signal7": 0,
+        "Signal9": 0
+      }
+    },
+    "Audio.Intensity.Left.AVG": {
+      "Signal1": {
+        "Signal1": 0,
+        "Signal3": 0,
+        "Signal4": 0,
+        "Signal6": 0,
+        "Signal7": 0,
+        "Signal9": 0
+      },
+      "Signal3": {
+        "Signal1": 0,
+        "Signal3": 0,
+        "Signal4": 0,
+        "Signal6": 0,
+        "Signal7": 0,
+        "Signal9": 0
+      },
+      "Signal4": {
+        "Signal1": 0,
+        "Signal3": 0,
+        "Signal4": 0,
+        "Signal6": 0,
+        "Signal7": 0,
+        "Signal9": 0
+      },
+      "Signal6": {
+        "Signal1": 0,
+        "Signal3": 0,
+        "Signal4": 0,
+        "Signal6": 0,
+        "Signal7": 0,
+        "Signal9": 0
+      },
+      "Signal7": {
+        "Signal1": 0,
+        "Signal3": 0,
+        "Signal4": 0,
+        "Signal6": 0,
+        "Signal7": 0,
+        "Signal9": 0
+      },
+      "Signal9": {
+        "Signal1": 0,
+        "Signal3": 0,
+        "Signal4": 0,
+        "Signal6": 0,
+        "Signal7": 0,
+        "Signal9": 0
+      }
+    }
+  },
+  "C4": {
+    "Vibrotactile.Duration": {
+      "Signal1": {
+        "Signal1": 0,
+        "Signal3": 3.216374269005848,
+        "Signal4": 0,
+        "Signal6": 3.216374269005848,
+        "Signal7": 0,
+        "Signal9": 3.216374269005848
+      },
+      "Signal3": {
+        "Signal1": 3.216374269005848,
+        "Signal3": 0,
+        "Signal4": 3.216374269005848,
+        "Signal6": 0,
+        "Signal7": 3.216374269005848,
+        "Signal9": 0
+      },
+      "Signal4": {
+        "Signal1": 0,
+        "Signal3": 3.216374269005848,
+        "Signal4": 0,
+        "Signal6": 3.216374269005848,
+        "Signal7": 0,
+        "Signal9": 3.216374269005848
+      },
+      "Signal6": {
+        "Signal1": 3.216374269005848,
+        "Signal3": 0,
+        "Signal4": 3.216374269005848,
+        "Signal6": 0,
+        "Signal7": 3.216374269005848,
+        "Signal9": 0
+      },
+      "Signal7": {
+        "Signal1": 0,
+        "Signal3": 3.216374269005848,
+        "Signal4": 0,
+        "Signal6": 3.216374269005848,
+        "Signal7": 0,
+        "Signal9": 3.216374269005848
+      },
+      "Signal9": {
+        "Signal1": 3.216374269005848,
+        "Signal3": 0,
+        "Signal4": 3.216374269005848,
+        "Signal6": 0,
+        "Signal7": 3.216374269005848,
         "Signal9": 0
       }
     },
@@ -1906,6 +1656,106 @@
         "Signal9": 0
       }
     },
+    "Audio.Duration": {
+      "Signal1": {
+        "Signal1": 0,
+        "Signal3": 4.160401002506266,
+        "Signal4": 0,
+        "Signal6": 4.160401002506266,
+        "Signal7": 0,
+        "Signal9": 4.160401002506266
+      },
+      "Signal3": {
+        "Signal1": 4.160401002506266,
+        "Signal3": 0,
+        "Signal4": 4.160401002506266,
+        "Signal6": 0,
+        "Signal7": 4.160401002506266,
+        "Signal9": 0
+      },
+      "Signal4": {
+        "Signal1": 0,
+        "Signal3": 4.160401002506266,
+        "Signal4": 0,
+        "Signal6": 4.160401002506266,
+        "Signal7": 0,
+        "Signal9": 4.160401002506266
+      },
+      "Signal6": {
+        "Signal1": 4.160401002506266,
+        "Signal3": 0,
+        "Signal4": 4.160401002506266,
+        "Signal6": 0,
+        "Signal7": 4.160401002506266,
+        "Signal9": 0
+      },
+      "Signal7": {
+        "Signal1": 0,
+        "Signal3": 4.160401002506266,
+        "Signal4": 0,
+        "Signal6": 4.160401002506266,
+        "Signal7": 0,
+        "Signal9": 4.160401002506266
+      },
+      "Signal9": {
+        "Signal1": 4.160401002506266,
+        "Signal3": 0,
+        "Signal4": 4.160401002506266,
+        "Signal6": 0,
+        "Signal7": 4.160401002506266,
+        "Signal9": 0
+      }
+    },
+    "Audio.Intensity.Right.STD": {
+      "Signal1": {
+        "Signal1": 0,
+        "Signal3": 1.2592592592592595,
+        "Signal4": 1.4074074074074077,
+        "Signal6": 1.851851851851852,
+        "Signal7": 0,
+        "Signal9": 0.9629629629629634
+      },
+      "Signal3": {
+        "Signal1": 1.2592592592592595,
+        "Signal3": 0,
+        "Signal4": 0.21621621621621642,
+        "Signal6": 0.864864864864865,
+        "Signal7": 1.2592592592592595,
+        "Signal9": 0.39024390243902424
+      },
+      "Signal4": {
+        "Signal1": 1.4074074074074077,
+        "Signal3": 0.21621621621621642,
+        "Signal4": 0,
+        "Signal6": 0.6857142857142857,
+        "Signal7": 1.4074074074074077,
+        "Signal9": 0.5853658536585366
+      },
+      "Signal6": {
+        "Signal1": 1.851851851851852,
+        "Signal3": 0.864864864864865,
+        "Signal4": 0.6857142857142857,
+        "Signal6": 0,
+        "Signal7": 1.851851851851852,
+        "Signal9": 1.170731707317073
+      },
+      "Signal7": {
+        "Signal1": 0,
+        "Signal3": 1.2592592592592595,
+        "Signal4": 1.4074074074074077,
+        "Signal6": 1.851851851851852,
+        "Signal7": 0,
+        "Signal9": 0.9629629629629634
+      },
+      "Signal9": {
+        "Signal1": 0.9629629629629634,
+        "Signal3": 0.39024390243902424,
+        "Signal4": 0.5853658536585366,
+        "Signal6": 1.170731707317073,
+        "Signal7": 0.9629629629629634,
+        "Signal9": 0
+      }
+    },
     "Audio.Frequency": {
       "Signal1": {
         "Signal1": 0,
@@ -1956,6 +1806,56 @@
         "Signal9": 0
       }
     },
+    "Vibrotactile.Frequency": {
+      "Signal1": {
+        "Signal1": 0,
+        "Signal3": 4.545454545454545,
+        "Signal4": 0,
+        "Signal6": 4.545454545454545,
+        "Signal7": 0,
+        "Signal9": 4.545454545454545
+      },
+      "Signal3": {
+        "Signal1": 4.545454545454545,
+        "Signal3": 0,
+        "Signal4": 4.545454545454545,
+        "Signal6": 0,
+        "Signal7": 4.545454545454545,
+        "Signal9": 0
+      },
+      "Signal4": {
+        "Signal1": 0,
+        "Signal3": 4.545454545454545,
+        "Signal4": 0,
+        "Signal6": 4.545454545454545,
+        "Signal7": 0,
+        "Signal9": 4.545454545454545
+      },
+      "Signal6": {
+        "Signal1": 4.545454545454545,
+        "Signal3": 0,
+        "Signal4": 4.545454545454545,
+        "Signal6": 0,
+        "Signal7": 4.545454545454545,
+        "Signal9": 0
+      },
+      "Signal7": {
+        "Signal1": 0,
+        "Signal3": 4.545454545454545,
+        "Signal4": 0,
+        "Signal6": 4.545454545454545,
+        "Signal7": 0,
+        "Signal9": 4.545454545454545
+      },
+      "Signal9": {
+        "Signal1": 4.545454545454545,
+        "Signal3": 0,
+        "Signal4": 4.545454545454545,
+        "Signal6": 0,
+        "Signal7": 4.545454545454545,
+        "Signal9": 0
+      }
+    },
     "Vibrotactile.Amplitude": {
       "Signal1": {
         "Signal1": 0,
@@ -2003,6 +1903,106 @@
         "Signal4": 2.7586206896551726,
         "Signal6": 2.7586206896551726,
         "Signal7": 0,
+        "Signal9": 0
+      }
+    },
+    "Audio.Intensity.Left.STD": {
+      "Signal1": {
+        "Signal1": 0,
+        "Signal3": 2.181818181818182,
+        "Signal4": 0.6666666666666665,
+        "Signal6": 1.696969696969697,
+        "Signal7": 1.4545454545454548,
+        "Signal9": 1.3333333333333335
+      },
+      "Signal3": {
+        "Signal1": 2.181818181818182,
+        "Signal3": 0,
+        "Signal4": 1.8181818181818183,
+        "Signal6": 0.8421052631578949,
+        "Signal7": 1.1428571428571428,
+        "Signal9": 1.272727272727273
+      },
+      "Signal4": {
+        "Signal1": 0.6666666666666665,
+        "Signal3": 1.8181818181818183,
+        "Signal4": 0,
+        "Signal6": 1.2363636363636366,
+        "Signal7": 0.9454545454545458,
+        "Signal9": 0.8000000000000003
+      },
+      "Signal6": {
+        "Signal1": 1.696969696969697,
+        "Signal3": 0.8421052631578949,
+        "Signal4": 1.2363636363636366,
+        "Signal6": 0,
+        "Signal7": 0.38095238095238076,
+        "Signal9": 0.5454545454545454
+      },
+      "Signal7": {
+        "Signal1": 1.4545454545454548,
+        "Signal3": 1.1428571428571428,
+        "Signal4": 0.9454545454545458,
+        "Signal6": 0.38095238095238076,
+        "Signal7": 0,
+        "Signal9": 0.181818181818182
+      },
+      "Signal9": {
+        "Signal1": 1.3333333333333335,
+        "Signal3": 1.272727272727273,
+        "Signal4": 0.8000000000000003,
+        "Signal6": 0.5454545454545454,
+        "Signal7": 0.181818181818182,
+        "Signal9": 0
+      }
+    },
+    "Audio.Intensity.Left.AVG": {
+      "Signal1": {
+        "Signal1": 0,
+        "Signal3": 0.8002350176263219,
+        "Signal4": 0.6883551231377318,
+        "Signal6": 1.3092885375494068,
+        "Signal7": 1.1427072402938088,
+        "Signal9": 1.67959096719216
+      },
+      "Signal3": {
+        "Signal1": 0.8002350176263219,
+        "Signal3": 0,
+        "Signal4": 0.13513513513513498,
+        "Signal6": 0.6363636363636362,
+        "Signal7": 0.4281217208814269,
+        "Signal9": 1.0992756710694502
+      },
+      "Signal4": {
+        "Signal1": 0.6883551231377318,
+        "Signal3": 0.13513513513513498,
+        "Signal4": 0,
+        "Signal6": 0.7499999999999997,
+        "Signal7": 0.5487932843651624,
+        "Signal9": 1.1972731146144011
+      },
+      "Signal6": {
+        "Signal1": 1.3092885375494068,
+        "Signal3": 0.6363636363636362,
+        "Signal4": 0.7499999999999997,
+        "Signal6": 0,
+        "Signal7": 0.23320158102766794,
+        "Signal9": 0.5504899872177249
+      },
+      "Signal7": {
+        "Signal1": 1.1427072402938088,
+        "Signal3": 0.4281217208814269,
+        "Signal4": 0.5487932843651624,
+        "Signal6": 0.23320158102766794,
+        "Signal7": 0,
+        "Signal9": 0.7515977844056243
+      },
+      "Signal9": {
+        "Signal1": 1.67959096719216,
+        "Signal3": 1.0992756710694502,
+        "Signal4": 1.1972731146144011,
+        "Signal6": 0.5504899872177249,
+        "Signal7": 0.7515977844056243,
         "Signal9": 0
       }
     }
